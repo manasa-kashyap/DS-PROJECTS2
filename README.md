@@ -1,7 +1,5 @@
 # Data Analyst Projects  <br>
 
-Hi, I'm **Manasa G V**, a passionate **Data Analyst** skilled in **Python, SQL, Excel, and Tableau**. I enjoy analyzing data, visualizing insights, and creating dashboards that help businesses make data-driven decisions.  <br>
-
 ---
 
 ## Retail Sales Analysis  <br>
