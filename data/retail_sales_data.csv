@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,Region,Product_Category,Product_Name,Quantity,Unit_Price,Total_Sales,Profit,Payment_Mode
+ORD0001,2024-01-26,Ishaan Mehta,East,Furniture,Sofa,3,976,2928,473.23,Credit Card
+ORD0002,2024-09-19,Ananya Singh,East,Clothing,Jeans,4,2657,10628,1255.84,UPI
+ORD0003,2024-06-14,Ananya Mehta,West,Electronics,Smartphone,2,6572,13144,1853.29,Debit Card
+ORD0004,2024-02-02,Ishaan Rao,West,Clothing,Jacket,5,4014,20070,4019.61,Credit Card
+ORD0005,2024-06-30,Vivaan Rao,West,Clothing,Shoes,1,4119,4119,880.23,Net Banking
+ORD0006,2024-06-18,Vivaan Mehta,South,Grocery,Rice Bag,5,916,4580,792.82,Net Banking
+ORD0007,2024-08-27,Meera Das,West,Sports,Gym Gloves,5,7908,39540,4130.55,UPI
+ORD0008,2024-02-11,Arjun Patel,East,Furniture,Sofa,3,200,600,113.28,Debit Card
+ORD0009,2024-03-11,Diya Rao,West,Clothing,Dress,3,7193,21579,4576.24,Net Banking
+ORD0010,2024-06-07,Arjun Sharma,South,Clothing,Jacket,4,6196,24784,3124.73,UPI
+ORD0011,2024-01-27,Arjun Singh,North,Furniture,Table,5,3863,19315,2336.75,UPI
+ORD0012,2024-06-30,Riya Mehta,West,Electronics,Headphones,5,1665,8325,2040.39,Cash
+ORD0013,2024-08-27,Meera Rao,North,Sports,Football,5,3029,15145,3761.46,Net Banking
+ORD0014,2024-09-23,Vivaan Sharma,North,Electronics,Smartwatch,5,4795,23975,3841.17,Credit Card
+ORD0015,2024-04-14,Arjun Rao,North,Furniture,Office Chair,4,1885,7540,1596.56,Debit Card
+ORD0016,2024-01-13,Arjun Singh,South,Grocery,Snacks,2,607,1214,131.66,Net Banking
+ORD0017,2024-06-17,Vivaan Rao,East,Clothing,Jacket,1,5230,5230,664.57,Cash
+ORD0018,2024-04-03,Vivaan Patel,East,Grocery,Snacks,2,6919,13838,3413.82,Credit Card
+ORD0019,2024-06-10,Riya Mehta,West,Furniture,Sofa,5,5110,25550,4320.33,Net Banking
+ORD0020,2024-05-05,Ananya Rao,South,Clothing,Shoes,4,7541,30164,7109.0,Debit Card
+ORD0021,2024-04-09,Aarav Sharma,North,Furniture,Sofa,4,1581,6324,985.32,Cash
+ORD0022,2024-03-21,Ananya Mehta,North,Electronics,Laptop,3,1425,4275,650.49,UPI
+ORD0023,2024-05-02,Vivaan Das,South,Clothing,Jacket,5,5852,29260,4909.23,Debit Card
+ORD0024,2024-01-27,Meera Patel,West,Sports,Tennis Racket,4,7759,31036,6189.6,Debit Card
+ORD0025,2024-09-27,Aarav Das,North,Sports,Cricket Bat,2,3232,6464,1252.58,Debit Card
+ORD0026,2024-03-31,Aarav Sharma,North,Grocery,Biscuits,2,1915,3830,811.57,UPI
+ORD0027,2024-03-17,Ananya Das,East,Grocery,Biscuits,2,7480,14960,1735.13,UPI
+ORD0028,2024-01-22,Ananya Patel,West,Sports,Cricket Bat,5,7894,39470,8894.32,Credit Card
+ORD0029,2024-09-02,Arjun Singh,South,Sports,Cricket Bat,1,4986,4986,674.46,Cash
+ORD0030,2024-01-23,Arjun Singh,East,Furniture,Bed,5,4018,20090,2207.03,UPI
+ORD0031,2024-06-28,Riya Das,South,Furniture,Table,1,3972,3972,726.55,Net Banking
+ORD0032,2024-06-07,Ishaan Mehta,North,Electronics,Smartphone,5,856,4280,541.37,UPI
+ORD0033,2024-08-31,Riya Patel,South,Grocery,Wheat Flour,4,3957,15828,3240.25,UPI
+ORD0034,2024-06-06,Arjun Rao,East,Grocery,Biscuits,4,6553,26212,4522.88,Debit Card
+ORD0035,2024-09-18,Aarav Mehta,South,Grocery,Oil,1,1911,1911,225.34,Credit Card
+ORD0036,2024-07-19,Ananya Das,West,Sports,Yoga Mat,2,3357,6714,804.33,UPI
+ORD0037,2024-03-31,Arjun Singh,North,Clothing,Jeans,2,3399,6798,891.14,Cash
+ORD0038,2024-04-17,Ishaan Singh,East,Furniture,Sofa,2,7261,14522,2288.68,Debit Card
+ORD0039,2024-06-17,Ananya Mehta,South,Electronics,Camera,3,6631,19893,4762.43,Debit Card
+ORD0040,2024-08-12,Ishaan Sharma,South,Sports,Football,2,1302,2604,298.41,Debit Card
+ORD0041,2024-08-28,Riya Patel,West,Grocery,Wheat Flour,2,4058,8116,1200.16,Net Banking
+ORD0042,2024-01-27,Arjun Sharma,West,Furniture,Cupboard,3,6816,20448,2375.09,Credit Card
+ORD0043,2024-05-27,Diya Mehta,North,Grocery,Wheat Flour,4,1032,4128,790.44,Cash
+ORD0044,2024-08-24,Aarav Sharma,East,Grocery,Snacks,1,2224,2224,279.94,Credit Card
+ORD0045,2024-03-10,Arjun Rao,North,Electronics,Smartphone,4,5338,21352,2400.33,Debit Card
+ORD0046,2024-05-25,Ishaan Singh,South,Electronics,Smartphone,5,5808,29040,7075.25,UPI
+ORD0047,2024-02-07,Vivaan Mehta,North,Grocery,Biscuits,3,3968,11904,2046.86,UPI
+ORD0048,2024-05-27,Ananya Das,East,Furniture,Table,2,580,1160,128.17,Cash
+ORD0049,2024-09-10,Aarav Singh,East,Grocery,Wheat Flour,1,3176,3176,475.12,UPI
+ORD0050,2024-06-15,Diya Patel,South,Furniture,Table,5,7032,35160,4837.78,Cash
+ORD0051,2024-05-06,Ananya Sharma,East,Electronics,Camera,3,1940,5820,1450.26,Net Banking
+ORD0052,2024-04-12,Aarav Rao,North,Electronics,Smartwatch,5,3529,17645,2894.86,Debit Card
+ORD0053,2024-08-17,Vivaan Patel,South,Clothing,Jeans,2,2272,4544,840.28,Cash
+ORD0054,2024-03-24,Riya Rao,South,Sports,Gym Gloves,4,5093,20372,3517.05,Credit Card
+ORD0055,2024-07-28,Ishaan Singh,East,Grocery,Snacks,2,7700,15400,3635.55,Net Banking
+ORD0056,2024-06-03,Meera Mehta,East,Clothing,Dress,1,3711,3711,825.6,Net Banking
+ORD0057,2024-09-26,Vivaan Rao,North,Electronics,Headphones,3,1739,5217,758.02,Credit Card
+ORD0058,2024-05-30,Meera Das,South,Grocery,Snacks,4,4867,19468,4230.83,Cash
+ORD0059,2024-01-15,Arjun Patel,East,Furniture,Sofa,2,7298,14596,2361.84,UPI
+ORD0060,2024-05-14,Ishaan Mehta,North,Electronics,Smartphone,4,4436,17744,3833.79,Net Banking
+ORD0061,2024-06-06,Ananya Das,North,Electronics,Laptop,5,6852,34260,8287.7,Credit Card
+ORD0062,2024-03-11,Meera Patel,North,Clothing,Dress,2,2402,4804,904.35,Net Banking
+ORD0063,2024-06-25,Aarav Rao,East,Electronics,Camera,2,1827,3654,743.07,Debit Card
+ORD0064,2024-07-28,Ananya Singh,West,Clothing,Jeans,5,1147,5735,1417.07,UPI
+ORD0065,2024-05-07,Riya Patel,North,Electronics,Smartphone,2,866,1732,246.56,Cash
+ORD0066,2024-06-16,Ishaan Das,North,Grocery,Rice Bag,3,6583,19749,3261.07,UPI
+ORD0067,2024-06-28,Vivaan Mehta,North,Sports,Football,2,2628,5256,551.77,Debit Card
+ORD0068,2024-04-16,Arjun Das,North,Clothing,Shoes,5,5054,25270,5367.94,UPI
+ORD0069,2024-09-05,Aarav Mehta,West,Clothing,Jacket,2,363,726,86.96,UPI
+ORD0070,2024-08-14,Arjun Das,North,Sports,Tennis Racket,3,2713,8139,1807.32,Net Banking
+ORD0071,2024-07-21,Riya Patel,West,Clothing,T-Shirt,5,3456,17280,3571.57,Credit Card
+ORD0072,2024-09-25,Ishaan Singh,North,Clothing,Jeans,1,590,590,105.39,Credit Card
+ORD0073,2024-06-05,Meera Mehta,West,Sports,Yoga Mat,1,6779,6779,972.15,Cash
+ORD0074,2024-05-24,Aarav Sharma,North,Grocery,Oil,5,6890,34450,4556.68,Debit Card
+ORD0075,2024-03-01,Diya Das,South,Clothing,T-Shirt,5,7897,39485,9469.14,UPI
+ORD0076,2024-07-26,Meera Singh,West,Grocery,Biscuits,1,3294,3294,549.03,Cash
+ORD0077,2024-03-28,Vivaan Mehta,North,Grocery,Rice Bag,1,5230,5230,1033.12,Cash
+ORD0078,2024-01-30,Meera Patel,East,Sports,Tennis Racket,2,6207,12414,1302.11,UPI
+ORD0079,2024-06-04,Ishaan Mehta,North,Clothing,Jacket,2,7503,15006,1768.24,Net Banking
+ORD0080,2024-02-10,Meera Singh,West,Sports,Cricket Bat,3,5723,17169,4162.6,Debit Card
+ORD0081,2024-04-12,Meera Das,West,Clothing,Jacket,3,230,690,148.71,Cash
+ORD0082,2024-06-08,Riya Patel,West,Clothing,Jeans,2,5749,11498,2872.87,Debit Card
+ORD0083,2024-01-11,Arjun Das,South,Clothing,Dress,1,3580,3580,614.5,Debit Card
+ORD0084,2024-08-20,Vivaan Das,South,Sports,Football,5,4621,23105,2717.42,Net Banking
+ORD0085,2024-07-07,Aarav Mehta,South,Furniture,Cupboard,4,6751,27004,3277.85,Cash
+ORD0086,2024-04-08,Ishaan Rao,South,Grocery,Wheat Flour,1,2818,2818,407.92,Cash
+ORD0087,2024-06-09,Diya Rao,East,Grocery,Biscuits,5,2121,10605,1289.75,Credit Card
+ORD0088,2024-08-19,Ishaan Patel,West,Sports,Gym Gloves,2,3388,6776,1193.99,Credit Card
+ORD0089,2024-06-20,Aarav Singh,East,Grocery,Rice Bag,2,1882,3764,514.17,Net Banking
+ORD0090,2024-02-16,Ananya Das,North,Furniture,Table,1,1808,1808,256.76,Net Banking
+ORD0091,2024-02-29,Vivaan Patel,West,Grocery,Rice Bag,2,5897,11794,1565.18,Debit Card
+ORD0092,2024-09-28,Riya Rao,East,Clothing,Dress,5,7512,37560,8084.81,UPI
+ORD0093,2024-05-12,Meera Rao,South,Electronics,Headphones,1,994,994,174.24,Net Banking
+ORD0094,2024-07-24,Vivaan Patel,North,Grocery,Wheat Flour,2,6888,13776,2604.06,Debit Card
+ORD0095,2024-08-02,Ananya Mehta,West,Grocery,Rice Bag,4,3409,13636,3312.13,Credit Card
+ORD0096,2024-09-08,Riya Das,East,Sports,Cricket Bat,2,7103,14206,1599.96,Debit Card
+ORD0097,2024-06-17,Riya Mehta,South,Furniture,Cupboard,4,7765,31060,6014.81,Cash
+ORD0098,2024-01-25,Meera Mehta,North,Electronics,Smartphone,4,2632,10528,1988.86,Net Banking
+ORD0099,2024-01-08,Aarav Mehta,East,Electronics,Camera,1,4295,4295,823.93,Debit Card
+ORD0100,2024-07-27,Aarav Sharma,West,Electronics,Smartphone,4,3895,15580,2092.86,Debit Card
+ORD0101,2024-03-17,Ishaan Patel,West,Furniture,Sofa,1,654,654,135.31,Cash
+ORD0102,2024-07-06,Vivaan Singh,South,Grocery,Wheat Flour,5,7843,39215,8064.77,Cash
+ORD0103,2024-02-23,Arjun Mehta,North,Furniture,Table,5,3175,15875,3491.13,Debit Card
+ORD0104,2024-08-12,Vivaan Sharma,South,Clothing,Jacket,2,4779,9558,2084.42,Debit Card
+ORD0105,2024-01-23,Arjun Singh,East,Clothing,T-Shirt,5,3381,16905,3360.39,Credit Card
+ORD0106,2024-08-13,Ishaan Rao,East,Furniture,Office Chair,3,387,1161,201.39,Net Banking
+ORD0107,2024-04-10,Meera Singh,South,Electronics,Camera,1,4407,4407,850.64,Debit Card
+ORD0108,2024-07-29,Diya Sharma,South,Grocery,Snacks,2,984,1968,211.73,Cash
+ORD0109,2024-03-24,Ananya Patel,East,Furniture,Sofa,5,5464,27320,4449.74,Net Banking
+ORD0110,2024-03-01,Riya Sharma,North,Grocery,Rice Bag,3,3666,10998,2747.47,Credit Card
+ORD0111,2024-04-28,Arjun Patel,West,Electronics,Smartwatch,1,5995,5995,795.95,Net Banking
+ORD0112,2024-01-23,Diya Mehta,East,Grocery,Snacks,2,4913,9826,1094.17,Cash
+ORD0113,2024-09-16,Ananya Mehta,West,Furniture,Cupboard,2,3520,7040,1221.37,UPI
+ORD0114,2024-01-12,Vivaan Mehta,North,Clothing,Shoes,2,3260,6520,976.6,UPI
+ORD0115,2024-05-19,Ishaan Rao,North,Furniture,Table,1,7785,7785,1184.29,UPI
+ORD0116,2024-09-21,Ananya Singh,North,Electronics,Camera,3,212,636,64.53,Credit Card
+ORD0117,2024-09-29,Aarav Patel,North,Sports,Tennis Racket,5,5447,27235,6037.11,Debit Card
+ORD0118,2024-07-21,Ishaan Rao,South,Sports,Football,3,7315,21945,5261.61,Net Banking
+ORD0119,2024-05-20,Diya Rao,West,Grocery,Biscuits,4,5828,23312,2494.43,Credit Card
+ORD0120,2024-03-25,Ishaan Singh,West,Sports,Football,3,3476,10428,1332.86,Credit Card
+ORD0121,2024-06-08,Ananya Singh,South,Grocery,Biscuits,2,6409,12818,1872.59,Cash
+ORD0122,2024-06-15,Ishaan Patel,South,Clothing,Jeans,1,4110,4110,950.3,Net Banking
+ORD0123,2024-01-30,Vivaan Rao,South,Clothing,Jacket,1,5384,5384,778.6,UPI
+ORD0124,2024-06-25,Ishaan Rao,East,Grocery,Oil,2,5910,11820,2798.11,Credit Card
+ORD0125,2024-09-18,Arjun Patel,West,Furniture,Office Chair,3,7466,22398,4001.72,Net Banking
+ORD0126,2024-01-24,Meera Sharma,West,Grocery,Rice Bag,3,7162,21486,3050.79,Cash
+ORD0127,2024-07-10,Ananya Mehta,East,Grocery,Wheat Flour,3,7367,22101,4908.4,Credit Card
+ORD0128,2024-02-16,Diya Sharma,South,Electronics,Smartphone,3,5797,17391,4301.36,UPI
+ORD0129,2024-05-05,Vivaan Das,North,Sports,Cricket Bat,5,5019,25095,4016.03,Cash
+ORD0130,2024-03-17,Ishaan Rao,East,Furniture,Office Chair,1,5611,5611,1335.66,Cash
+ORD0131,2024-03-30,Ananya Rao,West,Sports,Football,4,3184,12736,2254.04,Net Banking
+ORD0132,2024-04-16,Arjun Sharma,South,Furniture,Office Chair,5,2924,14620,2597.05,Debit Card
+ORD0133,2024-03-20,Aarav Mehta,South,Sports,Gym Gloves,4,2935,11740,1899.63,Net Banking
+ORD0134,2024-09-06,Riya Das,South,Grocery,Biscuits,5,6237,31185,6134.19,Net Banking
+ORD0135,2024-07-23,Ishaan Sharma,North,Electronics,Smartphone,5,4369,21845,3366.83,Net Banking
+ORD0136,2024-08-09,Vivaan Patel,East,Furniture,Table,3,5440,16320,3986.43,UPI
+ORD0137,2024-08-26,Ananya Rao,East,Grocery,Snacks,1,666,666,152.78,Debit Card
+ORD0138,2024-05-25,Meera Mehta,South,Electronics,Headphones,2,3556,7112,995.19,Cash
+ORD0139,2024-01-16,Riya Patel,West,Furniture,Table,5,4417,22085,3621.31,UPI
+ORD0140,2024-06-22,Vivaan Sharma,North,Grocery,Snacks,3,6739,20217,4861.52,Net Banking
+ORD0141,2024-01-13,Vivaan Singh,North,Grocery,Oil,3,2107,6321,1276.43,Debit Card
+ORD0142,2024-07-17,Ishaan Rao,North,Furniture,Bed,4,6236,24944,4027.39,Debit Card
+ORD0143,2024-07-26,Arjun Das,South,Electronics,Smartwatch,5,7781,38905,7724.31,Credit Card
+ORD0144,2024-01-19,Ishaan Singh,North,Clothing,Jacket,4,1627,6508,1438.82,Net Banking
+ORD0145,2024-08-20,Meera Sharma,North,Furniture,Sofa,3,4564,13692,1538.08,Cash
+ORD0146,2024-06-28,Diya Sharma,East,Sports,Gym Gloves,1,6021,6021,733.57,UPI
+ORD0147,2024-06-26,Diya Rao,North,Sports,Yoga Mat,2,5744,11488,1180.21,Net Banking
+ORD0148,2024-09-04,Riya Das,East,Furniture,Bed,3,5524,16572,2305.61,Debit Card
+ORD0149,2024-09-12,Riya Rao,West,Grocery,Oil,3,7081,21243,2354.95,Net Banking
+ORD0150,2024-09-01,Riya Rao,East,Clothing,Shoes,4,5047,20188,4732.3,Debit Card
+ORD0151,2024-09-07,Arjun Mehta,West,Electronics,Headphones,3,554,1662,188.89,Debit Card
+ORD0152,2024-07-26,Ananya Rao,West,Grocery,Oil,5,4427,22135,3029.97,Net Banking
+ORD0153,2024-02-10,Ishaan Rao,East,Sports,Gym Gloves,4,2758,11032,1387.38,Net Banking
+ORD0154,2024-06-19,Riya Singh,North,Electronics,Smartwatch,3,3940,11820,2820.19,UPI
+ORD0155,2024-02-03,Meera Rao,West,Electronics,Laptop,3,3964,11892,1314.9,Cash
+ORD0156,2024-03-20,Vivaan Singh,South,Grocery,Wheat Flour,1,3953,3953,811.07,Cash
+ORD0157,2024-01-16,Diya Singh,East,Clothing,Jacket,2,1737,3474,800.13,Debit Card
+ORD0158,2024-08-19,Aarav Sharma,East,Furniture,Bed,1,357,357,36.36,Cash
+ORD0159,2024-09-09,Arjun Mehta,East,Electronics,Smartphone,4,7341,29364,6483.73,Cash
+ORD0160,2024-07-16,Meera Patel,North,Grocery,Oil,5,7583,37915,4325.45,Cash
+ORD0161,2024-07-14,Arjun Das,West,Clothing,Jeans,1,4061,4061,480.92,Credit Card
+ORD0162,2024-07-14,Ishaan Singh,West,Sports,Yoga Mat,2,4120,8240,1371.23,UPI
+ORD0163,2024-08-10,Diya Das,South,Furniture,Sofa,1,525,525,101.25,Credit Card
+ORD0164,2024-09-23,Ishaan Singh,West,Furniture,Sofa,2,2564,5128,779.94,UPI
+ORD0165,2024-07-20,Ishaan Singh,South,Electronics,Camera,2,1976,3952,968.19,Credit Card
+ORD0166,2024-05-31,Arjun Sharma,South,Furniture,Bed,4,383,1532,340.87,Cash
+ORD0167,2024-03-07,Ananya Sharma,South,Grocery,Rice Bag,5,6650,33250,5480.7,Debit Card
+ORD0168,2024-05-28,Ananya Patel,South,Clothing,Jacket,1,2060,2060,486.3,UPI
+ORD0169,2024-03-08,Meera Patel,West,Sports,Gym Gloves,1,6144,6144,785.95,UPI
+ORD0170,2024-06-12,Arjun Das,South,Grocery,Biscuits,4,7277,29108,5466.43,Cash
+ORD0171,2024-06-09,Aarav Rao,South,Electronics,Smartphone,5,5539,27695,5897.92,UPI
+ORD0172,2024-09-06,Ishaan Rao,South,Furniture,Sofa,1,7277,7277,1373.87,Net Banking
+ORD0173,2024-01-07,Ishaan Singh,South,Grocery,Wheat Flour,4,3226,12904,1418.02,Net Banking
+ORD0174,2024-06-22,Aarav Patel,North,Electronics,Smartwatch,4,1848,7392,1290.58,Net Banking
+ORD0175,2024-09-06,Ishaan Mehta,East,Clothing,Shoes,4,5940,23760,5002.82,Credit Card
+ORD0176,2024-09-29,Aarav Mehta,South,Clothing,Jeans,4,2366,9464,2329.19,Cash
+ORD0177,2024-06-30,Meera Patel,South,Clothing,Dress,4,7467,29868,3578.83,Net Banking
+ORD0178,2024-02-04,Aarav Sharma,East,Furniture,Sofa,4,3825,15300,2039.77,Debit Card
+ORD0179,2024-03-24,Diya Sharma,South,Clothing,T-Shirt,3,4368,13104,1370.67,Cash
+ORD0180,2024-09-28,Diya Singh,West,Sports,Yoga Mat,3,7218,21654,4207.34,Cash
+ORD0181,2024-01-26,Arjun Patel,North,Furniture,Cupboard,3,3088,9264,1593.87,Debit Card
+ORD0182,2024-07-05,Aarav Das,North,Furniture,Cupboard,5,7401,37005,4921.93,Cash
+ORD0183,2024-01-08,Aarav Das,South,Sports,Football,1,3803,3803,748.71,UPI
+ORD0184,2024-01-29,Riya Singh,West,Clothing,Dress,4,5254,21016,3778.94,UPI
+ORD0185,2024-01-11,Ananya Das,South,Sports,Gym Gloves,2,3668,7336,859.52,Debit Card
+ORD0186,2024-08-30,Meera Mehta,South,Clothing,Jeans,1,4404,4404,770.17,Debit Card
+ORD0187,2024-05-01,Vivaan Sharma,North,Furniture,Office Chair,4,1213,4852,709.06,Cash
+ORD0188,2024-04-19,Arjun Rao,West,Sports,Football,1,1001,1001,195.89,Cash
+ORD0189,2024-06-20,Ishaan Sharma,North,Clothing,Shoes,2,5332,10664,1284.27,Credit Card
+ORD0190,2024-09-20,Riya Rao,East,Clothing,Dress,1,587,587,71.89,Credit Card
+ORD0191,2024-05-14,Ishaan Das,North,Electronics,Laptop,1,7034,7034,1483.94,UPI
+ORD0192,2024-08-23,Aarav Patel,South,Sports,Football,3,6098,18294,4433.91,UPI
+ORD0193,2024-07-19,Aarav Das,East,Clothing,T-Shirt,5,6110,30550,6725.48,UPI
+ORD0194,2024-01-28,Vivaan Patel,West,Grocery,Oil,2,1319,2638,453.44,Net Banking
+ORD0195,2024-09-04,Meera Patel,West,Furniture,Sofa,3,6739,20217,3227.99,Debit Card
+ORD0196,2024-09-02,Diya Mehta,West,Sports,Gym Gloves,2,7539,15078,2531.66,Cash
+ORD0197,2024-03-23,Riya Singh,South,Sports,Football,4,7690,30760,5903.73,Cash
+ORD0198,2024-03-07,Arjun Das,North,Electronics,Laptop,4,2169,8676,1722.3,Credit Card
+ORD0199,2024-07-22,Riya Das,North,Grocery,Rice Bag,5,5620,28100,4154.46,UPI
+ORD0200,2024-08-23,Riya Singh,West,Sports,Gym Gloves,3,1669,5007,1176.57,Credit Card
+ORD0201,2024-05-27,Vivaan Sharma,East,Furniture,Cupboard,2,4360,8720,1486.58,UPI
+ORD0202,2024-06-17,Meera Patel,South,Electronics,Camera,5,5099,25495,4474.46,Net Banking
+ORD0203,2024-05-07,Riya Mehta,South,Clothing,Shoes,2,1088,2176,420.95,Debit Card
+ORD0204,2024-02-16,Ishaan Rao,North,Electronics,Camera,4,2279,9116,1501.38,Net Banking
+ORD0205,2024-07-13,Meera Singh,North,Clothing,Jeans,4,6719,26876,4189.36,Net Banking
+ORD0206,2024-01-29,Meera Das,East,Sports,Football,1,3792,3792,444.34,UPI
+ORD0207,2024-04-26,Diya Patel,West,Clothing,Shoes,1,4024,4024,442.26,Debit Card
+ORD0208,2024-05-16,Aarav Das,West,Sports,Cricket Bat,4,1384,5536,1359.92,Cash
+ORD0209,2024-06-19,Meera Sharma,North,Sports,Football,1,5793,5793,942.31,Cash
+ORD0210,2024-03-10,Meera Mehta,North,Furniture,Table,4,3800,15200,2713.7,Credit Card
+ORD0211,2024-07-20,Arjun Patel,North,Grocery,Oil,3,2869,8607,1574.2,UPI
+ORD0212,2024-09-15,Arjun Rao,North,Grocery,Snacks,3,3866,11598,2232.35,Cash
+ORD0213,2024-04-29,Vivaan Singh,West,Sports,Cricket Bat,5,3502,17510,3690.16,UPI
+ORD0214,2024-07-22,Ishaan Mehta,East,Grocery,Biscuits,5,7293,36465,3700.85,Credit Card
+ORD0215,2024-02-14,Riya Rao,South,Electronics,Smartphone,1,3838,3838,640.44,Debit Card
+ORD0216,2024-03-04,Ananya Sharma,East,Clothing,Jacket,5,7510,37550,8884.02,Debit Card
+ORD0217,2024-08-16,Ishaan Rao,West,Sports,Football,2,852,1704,386.17,UPI
+ORD0218,2024-08-17,Ishaan Mehta,West,Electronics,Headphones,1,5605,5605,1322.37,Net Banking
+ORD0219,2024-06-25,Vivaan Singh,West,Grocery,Wheat Flour,1,4585,4585,926.64,Cash
+ORD0220,2024-04-09,Riya Rao,East,Electronics,Smartwatch,5,6821,34105,3870.25,Credit Card
+ORD0221,2024-05-06,Riya Rao,South,Clothing,Shoes,3,3443,10329,2382.39,Debit Card
+ORD0222,2024-06-13,Ishaan Rao,East,Sports,Cricket Bat,3,3878,11634,1322.69,Credit Card
+ORD0223,2024-06-15,Aarav Sharma,West,Sports,Tennis Racket,3,1808,5424,884.71,Net Banking
+ORD0224,2024-09-09,Arjun Das,West,Grocery,Oil,5,2835,14175,2651.18,Debit Card
+ORD0225,2024-05-26,Arjun Mehta,West,Clothing,Dress,5,1364,6820,1509.66,Debit Card
+ORD0226,2024-03-29,Meera Rao,East,Electronics,Camera,2,2731,5462,1297.56,Credit Card
+ORD0227,2024-04-09,Diya Das,West,Grocery,Oil,4,2866,11464,1568.26,Cash
+ORD0228,2024-06-16,Vivaan Mehta,North,Sports,Tennis Racket,2,2855,5710,1343.13,Net Banking
+ORD0229,2024-06-14,Aarav Sharma,East,Grocery,Biscuits,5,402,2010,389.32,Net Banking
+ORD0230,2024-02-21,Arjun Das,West,Electronics,Headphones,1,5609,5609,1231.34,UPI
+ORD0231,2024-06-22,Ishaan Rao,West,Sports,Cricket Bat,2,2153,4306,911.42,Cash
+ORD0232,2024-02-11,Vivaan Rao,North,Furniture,Bed,5,6408,32040,6227.3,Debit Card
+ORD0233,2024-09-12,Ishaan Singh,West,Furniture,Office Chair,3,3848,11544,2466.5,Cash
+ORD0234,2024-05-12,Meera Rao,North,Grocery,Wheat Flour,3,6587,19761,4059.48,Cash
+ORD0235,2024-06-24,Vivaan Singh,South,Clothing,Jacket,1,3636,3636,733.05,UPI
+ORD0236,2024-02-20,Meera Das,South,Clothing,T-Shirt,4,5675,22700,2407.4,Cash
+ORD0237,2024-03-29,Riya Mehta,South,Electronics,Smartphone,3,3657,10971,1173.48,Credit Card
+ORD0238,2024-03-11,Vivaan Rao,South,Sports,Yoga Mat,1,362,362,78.03,Net Banking
+ORD0239,2024-04-25,Ananya Singh,South,Grocery,Biscuits,2,5294,10588,1478.73,Credit Card
+ORD0240,2024-04-20,Diya Mehta,East,Grocery,Rice Bag,3,7909,23727,3155.96,Net Banking
+ORD0241,2024-09-13,Meera Patel,East,Grocery,Biscuits,5,7669,38345,7765.82,Cash
+ORD0242,2024-03-04,Meera Sharma,West,Electronics,Headphones,4,784,3136,442.51,UPI
+ORD0243,2024-05-25,Riya Patel,West,Sports,Football,4,4495,17980,2891.33,Debit Card
+ORD0244,2024-02-13,Meera Singh,West,Sports,Tennis Racket,2,4288,8576,1432.87,Debit Card
+ORD0245,2024-04-13,Diya Das,West,Furniture,Cupboard,4,1685,6740,1343.58,Cash
+ORD0246,2024-05-13,Riya Das,East,Electronics,Headphones,2,2291,4582,1070.82,Net Banking
+ORD0247,2024-02-11,Meera Sharma,North,Grocery,Oil,5,1159,5795,1387.12,Debit Card
+ORD0248,2024-06-07,Vivaan Mehta,East,Grocery,Rice Bag,5,5396,26980,5740.49,Credit Card
+ORD0249,2024-08-02,Vivaan Sharma,East,Furniture,Bed,2,4385,8770,1661.21,UPI
+ORD0250,2024-04-06,Meera Singh,East,Grocery,Snacks,3,1346,4038,549.57,Net Banking
+ORD0251,2024-04-11,Aarav Patel,South,Furniture,Office Chair,3,7012,21036,4074.2,Credit Card
+ORD0252,2024-02-01,Ananya Das,East,Grocery,Oil,5,2991,14955,1732.82,Credit Card
+ORD0253,2024-03-24,Riya Mehta,North,Grocery,Oil,3,2285,6855,1159.18,UPI
+ORD0254,2024-02-26,Arjun Das,North,Grocery,Biscuits,3,4999,14997,1741.96,Cash
+ORD0255,2024-02-14,Meera Patel,South,Grocery,Wheat Flour,4,6409,25636,5190.32,Credit Card
+ORD0256,2024-03-14,Riya Mehta,East,Furniture,Cupboard,4,1320,5280,840.65,UPI
+ORD0257,2024-02-03,Arjun Sharma,East,Sports,Yoga Mat,1,844,844,136.32,UPI
+ORD0258,2024-04-24,Riya Patel,South,Clothing,T-Shirt,4,666,2664,515.93,UPI
+ORD0259,2024-01-23,Arjun Das,South,Electronics,Headphones,3,2225,6675,1155.09,Cash
+ORD0260,2024-01-07,Diya Rao,East,Electronics,Smartphone,2,1719,3438,400.99,Net Banking
+ORD0261,2024-06-02,Riya Sharma,West,Electronics,Smartphone,1,5099,5099,701.96,Cash
+ORD0262,2024-03-21,Ishaan Mehta,North,Furniture,Cupboard,4,3356,13424,1379.39,Debit Card
+ORD0263,2024-01-16,Riya Patel,South,Furniture,Bed,5,3338,16690,1735.53,Debit Card
+ORD0264,2024-06-09,Diya Mehta,South,Electronics,Smartwatch,4,2715,10860,1257.04,Credit Card
+ORD0265,2024-08-01,Aarav Patel,South,Sports,Tennis Racket,3,888,2664,289.35,Net Banking
+ORD0266,2024-07-16,Aarav Singh,South,Electronics,Laptop,5,5246,26230,6001.76,Debit Card
+ORD0267,2024-08-27,Ishaan Mehta,North,Electronics,Laptop,2,7002,14004,1893.7,Cash
+ORD0268,2024-01-17,Arjun Sharma,East,Clothing,Jacket,5,6240,31200,3769.67,UPI
+ORD0269,2024-08-29,Ishaan Rao,West,Electronics,Smartphone,5,7901,39505,4308.78,Net Banking
+ORD0270,2024-07-28,Vivaan Patel,West,Sports,Cricket Bat,2,2084,4168,1037.13,UPI
+ORD0271,2024-08-05,Riya Mehta,South,Grocery,Rice Bag,2,3105,6210,1098.45,Cash
+ORD0272,2024-09-15,Aarav Rao,West,Grocery,Biscuits,2,6480,12960,1427.59,UPI
+ORD0273,2024-09-15,Arjun Mehta,North,Clothing,Dress,4,3818,15272,2886.92,Net Banking
+ORD0274,2024-03-26,Vivaan Rao,West,Furniture,Sofa,5,1069,5345,1123.81,Debit Card
+ORD0275,2024-01-21,Aarav Sharma,West,Electronics,Laptop,4,5765,23060,3301.78,UPI
+ORD0276,2024-08-05,Arjun Rao,South,Grocery,Oil,2,1869,3738,678.32,Cash
+ORD0277,2024-08-28,Meera Singh,West,Clothing,Dress,2,613,1226,227.6,Credit Card
+ORD0278,2024-04-30,Arjun Rao,South,Sports,Football,4,1967,7868,1213.51,Net Banking
+ORD0279,2024-02-27,Riya Rao,East,Furniture,Office Chair,1,4669,4669,756.52,Cash
+ORD0280,2024-04-13,Meera Das,South,Grocery,Biscuits,1,3621,3621,539.7,Net Banking
+ORD0281,2024-05-13,Meera Patel,North,Furniture,Cupboard,2,4100,8200,1920.23,Debit Card
+ORD0282,2024-04-05,Aarav Singh,South,Clothing,Dress,3,3206,9618,1453.37,Debit Card
+ORD0283,2024-02-26,Ishaan Mehta,East,Clothing,T-Shirt,2,5910,11820,2125.99,Cash
+ORD0284,2024-02-18,Meera Singh,North,Sports,Cricket Bat,1,2875,2875,488.55,UPI
+ORD0285,2024-04-25,Riya Singh,East,Furniture,Office Chair,3,7012,21036,4750.83,Credit Card
+ORD0286,2024-04-30,Ishaan Mehta,East,Furniture,Table,5,843,4215,835.26,UPI
+ORD0287,2024-03-23,Riya Das,South,Clothing,Dress,3,4240,12720,2401.49,Cash
+ORD0288,2024-07-13,Aarav Rao,East,Furniture,Office Chair,2,7764,15528,3393.63,Credit Card
+ORD0289,2024-06-24,Vivaan Sharma,North,Electronics,Smartphone,3,4055,12165,2519.63,Net Banking
+ORD0290,2024-05-02,Meera Sharma,East,Grocery,Snacks,2,3114,6228,1119.35,Net Banking
+ORD0291,2024-09-28,Ananya Das,East,Grocery,Rice Bag,1,7183,7183,1156.7,Credit Card
+ORD0292,2024-03-28,Riya Sharma,West,Sports,Yoga Mat,5,1999,9995,2252.0,Net Banking
+ORD0293,2024-05-28,Arjun Patel,South,Grocery,Biscuits,1,7538,7538,1812.19,UPI
+ORD0294,2024-01-01,Riya Rao,South,Furniture,Cupboard,5,4867,24335,3219.76,Debit Card
+ORD0295,2024-02-15,Arjun Patel,West,Furniture,Bed,1,1184,1184,121.56,Cash
+ORD0296,2024-02-03,Ishaan Rao,North,Sports,Football,2,2635,5270,659.06,Cash
+ORD0297,2024-05-30,Arjun Mehta,West,Clothing,T-Shirt,3,1275,3825,763.95,Cash
+ORD0298,2024-08-29,Vivaan Das,North,Electronics,Smartwatch,2,6924,13848,2597.86,Net Banking
+ORD0299,2024-07-28,Arjun Das,North,Sports,Gym Gloves,1,4147,4147,748.25,UPI
+ORD0300,2024-02-20,Vivaan Singh,East,Clothing,T-Shirt,3,6922,20766,2760.54,Credit Card
+ORD0301,2024-03-15,Riya Sharma,South,Sports,Tennis Racket,5,2779,13895,2436.24,Debit Card
+ORD0302,2024-02-11,Aarav Patel,East,Clothing,T-Shirt,5,7614,38070,9385.77,Debit Card
+ORD0303,2024-01-23,Meera Singh,East,Electronics,Headphones,1,6588,6588,1238.72,Cash
+ORD0304,2024-08-17,Ishaan Das,West,Grocery,Rice Bag,2,329,658,94.36,Credit Card
+ORD0305,2024-09-07,Riya Das,North,Sports,Cricket Bat,3,5227,15681,2696.95,Cash
+ORD0306,2024-01-28,Ishaan Das,West,Grocery,Snacks,5,2746,13730,3021.78,Credit Card
+ORD0307,2024-07-18,Aarav Das,North,Grocery,Wheat Flour,4,4200,16800,2757.11,Net Banking
+ORD0308,2024-07-07,Arjun Singh,South,Clothing,Jacket,1,7977,7977,1190.12,Cash
+ORD0309,2024-07-02,Ishaan Patel,West,Grocery,Snacks,2,6393,12786,2159.14,Debit Card
+ORD0310,2024-08-06,Meera Patel,East,Sports,Cricket Bat,3,5700,17100,3480.58,Debit Card
+ORD0311,2024-07-02,Vivaan Sharma,North,Grocery,Oil,1,5493,5493,701.92,Cash
+ORD0312,2024-08-23,Ishaan Mehta,North,Sports,Football,5,5257,26285,4053.4,Credit Card
+ORD0313,2024-03-12,Aarav Das,South,Grocery,Oil,1,6810,6810,1047.78,UPI
+ORD0314,2024-04-07,Ananya Rao,East,Furniture,Table,3,7566,22698,3555.84,Cash
+ORD0315,2024-02-28,Arjun Mehta,West,Sports,Gym Gloves,4,5061,20244,2602.92,UPI
+ORD0316,2024-01-19,Ananya Mehta,North,Sports,Football,3,5632,16896,2574.31,Debit Card
+ORD0317,2024-06-05,Diya Rao,North,Grocery,Oil,5,597,2985,313.6,UPI
+ORD0318,2024-06-06,Diya Patel,East,Grocery,Biscuits,1,5189,5189,792.9,Credit Card
+ORD0319,2024-03-30,Meera Das,West,Electronics,Camera,2,2515,5030,764.09,Credit Card
+ORD0320,2024-08-14,Aarav Patel,North,Clothing,T-Shirt,4,1811,7244,1021.57,UPI
+ORD0321,2024-08-01,Meera Sharma,North,Electronics,Camera,1,4397,4397,875.69,Debit Card
+ORD0322,2024-02-15,Ananya Mehta,North,Grocery,Rice Bag,1,1573,1573,285.85,Credit Card
+ORD0323,2024-04-27,Meera Patel,East,Grocery,Oil,3,1238,3714,789.75,Cash
+ORD0324,2024-08-26,Ishaan Rao,West,Sports,Yoga Mat,5,4942,24710,3796.61,Net Banking
+ORD0325,2024-09-04,Diya Sharma,South,Electronics,Smartwatch,3,483,1449,238.02,Net Banking
+ORD0326,2024-09-07,Ananya Mehta,West,Clothing,Jacket,3,3169,9507,2059.86,Debit Card
+ORD0327,2024-01-10,Arjun Singh,North,Electronics,Camera,2,2754,5508,668.67,UPI
+ORD0328,2024-04-26,Vivaan Singh,West,Furniture,Table,2,6609,13218,2205.56,Net Banking
+ORD0329,2024-02-14,Riya Mehta,West,Grocery,Biscuits,5,513,2565,370.26,Cash
+ORD0330,2024-08-10,Ananya Sharma,South,Grocery,Oil,4,3953,15812,3594.97,Cash
+ORD0331,2024-03-31,Aarav Patel,West,Furniture,Table,1,5087,5087,551.73,Net Banking
+ORD0332,2024-09-01,Riya Rao,West,Sports,Football,2,645,1290,160.57,Credit Card
+ORD0333,2024-07-14,Aarav Singh,East,Electronics,Headphones,3,6732,20196,5020.63,Cash
+ORD0334,2024-02-09,Meera Singh,West,Clothing,Jeans,5,2544,12720,2404.9,UPI
+ORD0335,2024-07-22,Meera Das,East,Sports,Tennis Racket,1,7617,7617,1817.94,Credit Card
+ORD0336,2024-06-17,Ishaan Das,North,Clothing,Dress,5,5420,27100,6146.18,UPI
+ORD0337,2024-08-30,Aarav Das,South,Furniture,Bed,3,2108,6324,899.96,Credit Card
+ORD0338,2024-02-09,Diya Patel,South,Electronics,Camera,1,7703,7703,1828.19,Credit Card
+ORD0339,2024-04-11,Riya Sharma,West,Grocery,Wheat Flour,3,538,1614,286.01,Debit Card
+ORD0340,2024-05-18,Vivaan Singh,South,Sports,Gym Gloves,2,5418,10836,1633.16,Cash
+ORD0341,2024-05-08,Ananya Patel,West,Sports,Football,5,2521,12605,1721.0,UPI
+ORD0342,2024-07-19,Ananya Mehta,East,Clothing,T-Shirt,1,1108,1108,214.7,Cash
+ORD0343,2024-01-10,Ishaan Sharma,North,Clothing,Jeans,4,5626,22504,3767.69,Credit Card
+ORD0344,2024-06-29,Riya Mehta,North,Grocery,Wheat Flour,4,4628,18512,2292.15,Net Banking
+ORD0345,2024-04-10,Arjun Das,East,Grocery,Wheat Flour,4,1916,7664,1102.22,UPI
+ORD0346,2024-02-01,Riya Patel,South,Furniture,Office Chair,5,4816,24080,5283.04,Cash
+ORD0347,2024-02-01,Aarav Das,North,Sports,Tennis Racket,4,1024,4096,998.73,Net Banking
+ORD0348,2024-02-10,Diya Das,South,Furniture,Cupboard,2,7363,14726,2267.6,UPI
+ORD0349,2024-02-17,Arjun Das,South,Electronics,Smartphone,5,7386,36930,8286.0,Net Banking
+ORD0350,2024-02-10,Riya Singh,East,Furniture,Table,1,7025,7025,1086.11,Debit Card
+ORD0351,2024-08-07,Aarav Sharma,South,Electronics,Laptop,3,1585,4755,841.42,UPI
+ORD0352,2024-01-27,Ishaan Mehta,North,Furniture,Table,1,2317,2317,426.74,Credit Card
+ORD0353,2024-03-11,Ishaan Das,North,Clothing,Shoes,5,2469,12345,1281.43,UPI
+ORD0354,2024-05-23,Arjun Rao,East,Clothing,Shoes,5,1261,6305,1513.62,Credit Card
+ORD0355,2024-06-05,Vivaan Mehta,North,Clothing,Jeans,4,7770,31080,7255.38,Cash
+ORD0356,2024-01-08,Arjun Das,South,Furniture,Cupboard,2,3082,6164,1393.88,Debit Card
+ORD0357,2024-03-11,Ishaan Sharma,North,Sports,Tennis Racket,5,5511,27555,5629.58,Credit Card
+ORD0358,2024-09-26,Diya Sharma,South,Furniture,Table,4,6816,27264,3669.55,Debit Card
+ORD0359,2024-01-21,Vivaan Patel,North,Sports,Tennis Racket,3,3945,11835,2304.04,Cash
+ORD0360,2024-04-12,Aarav Das,East,Grocery,Biscuits,1,7925,7925,850.61,Credit Card
+ORD0361,2024-02-28,Riya Mehta,North,Furniture,Office Chair,1,5136,5136,1017.46,Cash
+ORD0362,2024-03-04,Riya Sharma,West,Furniture,Bed,1,7707,7707,1118.97,Cash
+ORD0363,2024-08-19,Ishaan Das,South,Clothing,Dress,3,7113,21339,4100.31,Credit Card
+ORD0364,2024-09-26,Arjun Rao,South,Grocery,Wheat Flour,3,7935,23805,5777.21,Net Banking
+ORD0365,2024-09-25,Aarav Singh,South,Furniture,Cupboard,2,2415,4830,840.68,Debit Card
+ORD0366,2024-03-19,Aarav Rao,South,Sports,Cricket Bat,5,5422,27110,5386.13,Cash
+ORD0367,2024-01-27,Riya Mehta,South,Sports,Gym Gloves,5,5707,28535,4947.85,UPI
+ORD0368,2024-05-20,Arjun Rao,East,Clothing,Dress,3,1903,5709,903.36,Debit Card
+ORD0369,2024-09-11,Ishaan Mehta,East,Furniture,Bed,4,3660,14640,1812.42,UPI
+ORD0370,2024-08-25,Riya Patel,East,Clothing,Dress,4,6190,24760,5666.53,Debit Card
+ORD0371,2024-07-09,Meera Rao,South,Furniture,Table,4,6459,25836,3698.38,Net Banking
+ORD0372,2024-08-12,Diya Das,South,Clothing,Shoes,5,7721,38605,5202.04,Credit Card
+ORD0373,2024-06-26,Diya Patel,South,Sports,Tennis Racket,2,1295,2590,506.42,UPI
+ORD0374,2024-07-06,Arjun Mehta,West,Sports,Tennis Racket,2,4085,8170,1219.09,Cash
+ORD0375,2024-02-08,Diya Sharma,East,Sports,Gym Gloves,4,3253,13012,2635.29,Credit Card
+ORD0376,2024-06-29,Ishaan Patel,East,Sports,Cricket Bat,4,365,1460,340.38,Net Banking
+ORD0377,2024-06-19,Riya Sharma,West,Clothing,Shoes,3,5506,16518,2947.11,Debit Card
+ORD0378,2024-08-22,Arjun Patel,East,Electronics,Laptop,4,7122,28488,3895.93,UPI
+ORD0379,2024-04-24,Riya Mehta,North,Furniture,Cupboard,5,495,2475,515.43,Credit Card
+ORD0380,2024-09-25,Diya Das,North,Furniture,Bed,2,2617,5234,650.54,Debit Card
+ORD0381,2024-06-08,Diya Sharma,East,Furniture,Office Chair,4,4434,17736,2778.63,Cash
+ORD0382,2024-05-28,Arjun Patel,East,Electronics,Laptop,5,6978,34890,4854.55,Credit Card
+ORD0383,2024-06-19,Ananya Das,East,Electronics,Headphones,3,6545,19635,3085.04,Debit Card
+ORD0384,2024-06-25,Meera Das,East,Electronics,Headphones,2,5838,11676,2552.35,Debit Card
+ORD0385,2024-04-29,Ishaan Patel,North,Clothing,Jacket,5,6460,32300,5762.35,Credit Card
+ORD0386,2024-08-14,Aarav Sharma,West,Grocery,Rice Bag,4,5477,21908,5034.49,Credit Card
+ORD0387,2024-05-08,Aarav Sharma,West,Electronics,Headphones,5,5390,26950,5731.4,Debit Card
+ORD0388,2024-03-01,Diya Rao,North,Grocery,Snacks,2,6874,13748,2499.07,Credit Card
+ORD0389,2024-04-12,Riya Sharma,East,Sports,Football,3,790,2370,510.42,Net Banking
+ORD0390,2024-04-25,Arjun Das,East,Electronics,Laptop,1,1312,1312,157.07,Credit Card
+ORD0391,2024-09-03,Ishaan Mehta,East,Grocery,Snacks,1,5439,5439,703.46,UPI
+ORD0392,2024-04-05,Aarav Das,East,Grocery,Wheat Flour,5,508,2540,553.56,Cash
+ORD0393,2024-05-31,Riya Sharma,North,Furniture,Bed,5,7793,38965,8176.72,Debit Card
+ORD0394,2024-03-05,Riya Rao,East,Sports,Tennis Racket,5,3909,19545,3891.28,Cash
+ORD0395,2024-04-17,Arjun Rao,West,Electronics,Smartphone,3,234,702,103.96,Cash
+ORD0396,2024-05-10,Diya Mehta,West,Clothing,Jacket,4,3257,13028,2573.84,Debit Card
+ORD0397,2024-05-04,Vivaan Singh,East,Grocery,Rice Bag,1,6154,6154,1494.27,Net Banking
+ORD0398,2024-01-30,Arjun Sharma,North,Clothing,Dress,1,5018,5018,651.39,UPI
+ORD0399,2024-06-08,Riya Patel,West,Grocery,Snacks,5,7773,38865,9171.34,Credit Card
+ORD0400,2024-03-19,Ishaan Rao,South,Clothing,T-Shirt,1,6444,6444,1209.93,Credit Card
+ORD0401,2024-09-15,Arjun Singh,West,Clothing,Jeans,4,1314,5256,668.04,UPI
+ORD0402,2024-05-16,Diya Rao,East,Electronics,Camera,1,984,984,107.08,Debit Card
+ORD0403,2024-06-03,Riya Sharma,East,Clothing,T-Shirt,4,2103,8412,1990.42,Credit Card
+ORD0404,2024-04-01,Vivaan Rao,South,Sports,Cricket Bat,5,2064,10320,1148.27,UPI
+ORD0405,2024-07-17,Vivaan Rao,North,Electronics,Smartphone,1,4760,4760,732.82,Debit Card
+ORD0406,2024-02-20,Diya Mehta,West,Electronics,Smartphone,1,3411,3411,462.36,UPI
+ORD0407,2024-04-05,Vivaan Singh,North,Sports,Football,2,1923,3846,474.3,UPI
+ORD0408,2024-05-15,Ananya Sharma,West,Clothing,Dress,3,5162,15486,2798.25,Net Banking
+ORD0409,2024-01-05,Aarav Rao,North,Clothing,Dress,4,7515,30060,6462.98,Net Banking
+ORD0410,2024-07-02,Arjun Patel,North,Furniture,Cupboard,3,299,897,223.04,UPI
+ORD0411,2024-05-21,Riya Mehta,North,Sports,Gym Gloves,1,6652,6652,756.45,Cash
+ORD0412,2024-02-13,Riya Patel,West,Electronics,Smartwatch,1,2016,2016,283.49,Credit Card
+ORD0413,2024-09-04,Vivaan Sharma,West,Furniture,Sofa,4,7699,30796,5359.04,Net Banking
+ORD0414,2024-07-24,Meera Das,East,Grocery,Snacks,4,2118,8472,1292.38,Net Banking
+ORD0415,2024-02-02,Arjun Sharma,South,Furniture,Office Chair,1,263,263,46.74,Credit Card
+ORD0416,2024-09-16,Meera Rao,South,Furniture,Bed,5,6895,34475,7440.74,Net Banking
+ORD0417,2024-09-04,Aarav Rao,South,Electronics,Smartwatch,2,5911,11822,1444.97,UPI
+ORD0418,2024-09-01,Meera Rao,South,Sports,Tennis Racket,3,3746,11238,1523.91,Cash
+ORD0419,2024-09-29,Ananya Mehta,North,Furniture,Bed,4,4422,17688,4331.44,Debit Card
+ORD0420,2024-09-16,Ishaan Sharma,East,Grocery,Biscuits,2,4040,8080,1023.02,Net Banking
+ORD0421,2024-05-10,Meera Das,East,Clothing,T-Shirt,5,4185,20925,3662.18,Debit Card
+ORD0422,2024-01-15,Aarav Sharma,South,Electronics,Smartphone,1,7938,7938,849.68,Net Banking
+ORD0423,2024-06-09,Ananya Sharma,North,Electronics,Camera,1,6883,6883,918.54,Net Banking
+ORD0424,2024-03-01,Meera Das,North,Clothing,Shoes,3,6131,18393,2005.62,Cash
+ORD0425,2024-04-12,Vivaan Singh,North,Electronics,Laptop,3,4876,14628,2053.56,Cash
+ORD0426,2024-05-21,Meera Rao,North,Clothing,Jeans,5,6077,30385,5852.72,Debit Card
+ORD0427,2024-02-02,Ananya Mehta,South,Sports,Tennis Racket,5,7229,36145,7408.23,UPI
+ORD0428,2024-01-02,Ishaan Rao,North,Grocery,Wheat Flour,3,5204,15612,1601.3,Cash
+ORD0429,2024-05-17,Diya Das,East,Electronics,Headphones,3,6477,19431,3432.77,Debit Card
+ORD0430,2024-01-09,Aarav Sharma,North,Clothing,Jacket,1,4880,4880,658.19,Cash
+ORD0431,2024-01-19,Meera Rao,South,Grocery,Oil,3,2676,8028,1264.24,Cash
+ORD0432,2024-07-27,Arjun Patel,North,Electronics,Laptop,2,1850,3700,628.3,Net Banking
+ORD0433,2024-05-14,Meera Mehta,East,Clothing,Jeans,1,1793,1793,436.76,UPI
+ORD0434,2024-08-27,Vivaan Mehta,North,Grocery,Rice Bag,3,5065,15195,2510.03,UPI
+ORD0435,2024-01-10,Ananya Mehta,North,Furniture,Cupboard,3,1713,5139,887.37,Credit Card
+ORD0436,2024-07-16,Ishaan Mehta,North,Sports,Yoga Mat,2,5259,10518,1889.31,UPI
+ORD0437,2024-08-31,Ishaan Sharma,East,Grocery,Snacks,5,1684,8420,1372.64,UPI
+ORD0438,2024-04-10,Meera Sharma,East,Grocery,Oil,3,2263,6789,1268.98,Debit Card
+ORD0439,2024-01-25,Arjun Das,North,Grocery,Wheat Flour,2,5093,10186,1478.21,Cash
+ORD0440,2024-03-24,Arjun Mehta,East,Sports,Gym Gloves,2,4691,9382,1207.26,Cash
+ORD0441,2024-03-16,Diya Patel,North,Furniture,Cupboard,1,864,864,131.14,UPI
+ORD0442,2024-01-19,Diya Das,South,Furniture,Table,2,2808,5616,1188.74,Net Banking
+ORD0443,2024-07-23,Diya Singh,South,Grocery,Rice Bag,4,1702,6808,693.91,Credit Card
+ORD0444,2024-05-30,Vivaan Patel,North,Clothing,Jacket,2,5789,11578,1407.47,Credit Card
+ORD0445,2024-03-14,Aarav Patel,East,Electronics,Camera,3,5284,15852,1841.53,UPI
+ORD0446,2024-06-27,Diya Singh,East,Electronics,Camera,4,3525,14100,2423.64,Net Banking
+ORD0447,2024-03-08,Diya Das,East,Electronics,Smartphone,4,1520,6080,1105.76,Debit Card
+ORD0448,2024-09-20,Riya Patel,West,Furniture,Cupboard,3,2742,8226,1854.07,Credit Card
+ORD0449,2024-08-04,Meera Rao,South,Sports,Yoga Mat,4,1369,5476,1224.33,Cash
+ORD0450,2024-01-19,Diya Patel,East,Furniture,Office Chair,3,4142,12426,1906.04,Credit Card
+ORD0451,2024-04-17,Ishaan Sharma,West,Electronics,Laptop,4,4353,17412,2266.56,Net Banking
+ORD0452,2024-05-26,Diya Rao,North,Grocery,Oil,4,1720,6880,1700.55,Net Banking
+ORD0453,2024-04-17,Meera Singh,East,Electronics,Headphones,1,4412,4412,786.57,Cash
+ORD0454,2024-03-12,Meera Das,South,Clothing,Jeans,1,3440,3440,779.27,Net Banking
+ORD0455,2024-03-09,Vivaan Mehta,West,Grocery,Snacks,4,5931,23724,2730.73,UPI
+ORD0456,2024-01-22,Diya Singh,North,Electronics,Smartwatch,4,7254,29016,6997.95,Cash
+ORD0457,2024-07-08,Diya Sharma,North,Electronics,Laptop,1,2495,2495,289.55,Net Banking
+ORD0458,2024-09-27,Riya Rao,South,Grocery,Snacks,3,4700,14100,1907.06,Cash
+ORD0459,2024-06-12,Aarav Mehta,South,Furniture,Sofa,5,6172,30860,3110.12,UPI
+ORD0460,2024-04-06,Ananya Das,East,Clothing,Dress,1,4972,4972,1188.64,Net Banking
+ORD0461,2024-01-20,Ishaan Sharma,East,Sports,Football,3,4141,12423,2831.83,Cash
+ORD0462,2024-07-15,Ananya Patel,East,Grocery,Snacks,2,556,1112,257.23,Debit Card
+ORD0463,2024-08-22,Aarav Patel,South,Sports,Football,5,4686,23430,4815.86,UPI
+ORD0464,2024-08-27,Meera Sharma,South,Sports,Football,2,5173,10346,2218.71,Debit Card
+ORD0465,2024-01-28,Meera Mehta,South,Grocery,Wheat Flour,1,2627,2627,275.14,Cash
+ORD0466,2024-04-25,Vivaan Mehta,East,Furniture,Sofa,1,3210,3210,666.61,Credit Card
+ORD0467,2024-02-19,Aarav Sharma,East,Electronics,Smartwatch,1,5947,5947,1184.54,Credit Card
+ORD0468,2024-03-26,Aarav Patel,West,Grocery,Wheat Flour,4,2235,8940,1808.69,Net Banking
+ORD0469,2024-01-04,Vivaan Rao,East,Sports,Gym Gloves,2,3129,6258,797.7,Cash
+ORD0470,2024-02-02,Riya Rao,East,Electronics,Smartwatch,3,6732,20196,3752.17,Debit Card
+ORD0471,2024-07-18,Ananya Mehta,East,Sports,Gym Gloves,1,2085,2085,216.67,Debit Card
+ORD0472,2024-08-14,Aarav Sharma,South,Electronics,Smartphone,3,7440,22320,2867.92,Net Banking
+ORD0473,2024-02-18,Ananya Das,West,Electronics,Laptop,3,1805,5415,1145.94,Debit Card
+ORD0474,2024-01-26,Meera Singh,South,Clothing,Jeans,4,3228,12912,3020.46,UPI
+ORD0475,2024-05-11,Riya Rao,East,Sports,Football,1,7918,7918,1027.64,Cash
+ORD0476,2024-07-19,Ishaan Patel,North,Electronics,Headphones,3,2135,6405,1290.81,Cash
+ORD0477,2024-08-03,Ananya Singh,North,Sports,Cricket Bat,5,1985,9925,2280.56,Net Banking
+ORD0478,2024-05-11,Arjun Rao,East,Clothing,Dress,3,6827,20481,5022.14,Net Banking
+ORD0479,2024-09-07,Meera Patel,North,Electronics,Laptop,3,491,1473,156.54,Debit Card
+ORD0480,2024-05-05,Ishaan Mehta,South,Electronics,Laptop,3,6084,18252,2340.41,UPI
+ORD0481,2024-07-15,Arjun Rao,South,Furniture,Office Chair,4,4736,18944,2502.22,Credit Card
+ORD0482,2024-08-28,Meera Mehta,South,Grocery,Rice Bag,4,2097,8388,945.08,Debit Card
+ORD0483,2024-04-12,Ishaan Rao,West,Sports,Football,4,3938,15752,3395.1,Credit Card
+ORD0484,2024-01-11,Arjun Mehta,North,Furniture,Bed,4,2837,11348,1290.69,UPI
+ORD0485,2024-01-05,Arjun Das,West,Furniture,Bed,1,6469,6469,826.38,UPI
+ORD0486,2024-05-03,Ishaan Rao,West,Electronics,Smartwatch,2,4006,8012,1606.17,Credit Card
+ORD0487,2024-05-06,Vivaan Das,East,Sports,Tennis Racket,1,4769,4769,854.31,Net Banking
+ORD0488,2024-05-09,Vivaan Sharma,West,Sports,Football,5,5720,28600,4885.65,Cash
+ORD0489,2024-08-14,Vivaan Das,West,Furniture,Bed,4,2196,8784,1672.66,Cash
+ORD0490,2024-02-04,Arjun Das,West,Electronics,Headphones,5,3839,19195,2177.28,UPI
+ORD0491,2024-04-05,Meera Rao,South,Grocery,Snacks,3,6301,18903,4031.69,Cash
+ORD0492,2024-07-12,Meera Mehta,West,Furniture,Cupboard,3,5783,17349,2064.64,Net Banking
+ORD0493,2024-09-03,Aarav Sharma,East,Electronics,Smartphone,1,7731,7731,1270.38,Net Banking
+ORD0494,2024-07-21,Diya Patel,North,Electronics,Laptop,4,3974,15896,2873.1,Debit Card
+ORD0495,2024-04-01,Arjun Das,South,Clothing,Dress,1,1931,1931,264.02,Net Banking
+ORD0496,2024-01-21,Aarav Sharma,East,Sports,Football,1,6728,6728,1279.69,Cash
+ORD0497,2024-04-10,Aarav Mehta,South,Electronics,Camera,2,2602,5204,884.88,UPI
+ORD0498,2024-03-24,Ananya Das,West,Sports,Tennis Racket,1,1266,1266,159.03,Credit Card
+ORD0499,2024-02-14,Aarav Patel,North,Furniture,Table,3,887,2661,398.56,Cash
+ORD0500,2024-05-11,Diya Rao,East,Electronics,Headphones,4,2565,10260,1750.12,Credit Card
+ORD0501,2024-04-16,Ishaan Patel,South,Sports,Football,3,5508,16524,2993.19,Credit Card
+ORD0502,2024-06-25,Meera Patel,West,Furniture,Sofa,5,2020,10100,2473.83,UPI
+ORD0503,2024-05-15,Ananya Patel,West,Clothing,Shoes,4,6378,25512,2821.5,UPI
+ORD0504,2024-01-21,Arjun Sharma,South,Grocery,Oil,2,1131,2262,249.17,Net Banking
+ORD0505,2024-06-05,Ishaan Rao,West,Clothing,Shoes,3,7432,22296,2312.13,UPI
+ORD0506,2024-08-09,Riya Rao,East,Electronics,Headphones,4,4242,16968,2056.55,Net Banking
+ORD0507,2024-04-17,Riya Mehta,East,Grocery,Snacks,2,7755,15510,3305.19,Debit Card
+ORD0508,2024-04-21,Vivaan Sharma,East,Furniture,Table,1,6412,6412,710.03,Credit Card
+ORD0509,2024-03-03,Riya Rao,North,Electronics,Laptop,4,5793,23172,3243.02,Cash
+ORD0510,2024-03-06,Aarav Patel,East,Electronics,Headphones,2,6792,13584,1506.14,Cash
+ORD0511,2024-03-02,Aarav Mehta,West,Clothing,Dress,4,1620,6480,898.92,Cash
+ORD0512,2024-04-01,Arjun Rao,West,Furniture,Bed,3,2665,7995,1867.34,UPI
+ORD0513,2024-03-10,Ananya Patel,West,Clothing,Jacket,2,2954,5908,1228.0,Credit Card
+ORD0514,2024-07-25,Meera Singh,South,Electronics,Smartwatch,1,6806,6806,769.49,Net Banking
+ORD0515,2024-07-08,Arjun Das,East,Clothing,Jeans,3,5864,17592,3720.05,Net Banking
+ORD0516,2024-06-23,Ananya Sharma,South,Furniture,Cupboard,3,4921,14763,2270.18,Net Banking
+ORD0517,2024-03-29,Riya Das,East,Furniture,Sofa,4,6557,26228,3765.23,Net Banking
+ORD0518,2024-04-25,Vivaan Singh,West,Clothing,Jacket,3,1589,4767,898.28,Debit Card
+ORD0519,2024-06-15,Meera Rao,South,Electronics,Laptop,5,2803,14015,1913.8,Credit Card
+ORD0520,2024-07-26,Meera Singh,South,Clothing,Jacket,2,3998,7996,1152.57,UPI
+ORD0521,2024-04-11,Ishaan Patel,North,Sports,Gym Gloves,5,5975,29875,6025.05,Cash
+ORD0522,2024-07-24,Arjun Sharma,North,Clothing,T-Shirt,3,6693,20079,5003.6,Cash
+ORD0523,2024-06-11,Arjun Sharma,South,Sports,Gym Gloves,2,997,1994,405.18,Net Banking
+ORD0524,2024-07-10,Aarav Mehta,South,Grocery,Rice Bag,3,5727,17181,2874.03,UPI
+ORD0525,2024-04-29,Ishaan Mehta,South,Furniture,Table,3,5490,16470,2272.61,UPI
+ORD0526,2024-08-05,Riya Mehta,South,Grocery,Wheat Flour,2,4351,8702,1339.02,Cash
+ORD0527,2024-06-14,Arjun Singh,West,Sports,Football,3,1595,4785,806.98,Net Banking
+ORD0528,2024-09-03,Arjun Rao,South,Clothing,Jacket,2,4578,9156,1500.64,Credit Card
+ORD0529,2024-02-25,Ananya Patel,South,Clothing,Shoes,4,7307,29228,7059.54,Credit Card
+ORD0530,2024-06-02,Ishaan Das,West,Clothing,Jacket,3,4741,14223,3376.88,Credit Card
+ORD0531,2024-09-25,Meera Mehta,South,Sports,Gym Gloves,3,2384,7152,1588.2,Debit Card
+ORD0532,2024-04-27,Aarav Singh,North,Grocery,Wheat Flour,5,7525,37625,8407.31,Debit Card
+ORD0533,2024-02-25,Ishaan Mehta,North,Grocery,Biscuits,3,6291,18873,4579.0,Debit Card
+ORD0534,2024-05-29,Arjun Das,West,Grocery,Biscuits,2,1085,2170,378.38,Debit Card
+ORD0535,2024-06-06,Aarav Singh,East,Furniture,Cupboard,4,1705,6820,921.73,Credit Card
+ORD0536,2024-03-30,Diya Patel,West,Clothing,Jacket,5,7006,35030,3578.4,Net Banking
+ORD0537,2024-02-01,Aarav Sharma,East,Furniture,Cupboard,4,5167,20668,3028.98,Debit Card
+ORD0538,2024-01-31,Arjun Mehta,South,Grocery,Snacks,3,4371,13113,2566.29,Debit Card
+ORD0539,2024-04-30,Arjun Mehta,South,Grocery,Rice Bag,5,1253,6265,994.63,Credit Card
+ORD0540,2024-06-26,Riya Singh,North,Grocery,Rice Bag,5,4980,24900,4582.95,Cash
+ORD0541,2024-04-24,Aarav Rao,West,Clothing,Dress,3,5351,16053,2067.51,Cash
+ORD0542,2024-01-05,Vivaan Singh,North,Furniture,Table,5,1362,6810,1609.0,Credit Card
+ORD0543,2024-03-11,Meera Singh,North,Furniture,Table,5,5232,26160,3872.1,Cash
+ORD0544,2024-08-21,Riya Mehta,East,Grocery,Rice Bag,3,4254,12762,1610.29,Net Banking
+ORD0545,2024-02-04,Riya Das,West,Grocery,Rice Bag,1,5113,5113,665.62,Credit Card
+ORD0546,2024-06-22,Meera Singh,East,Furniture,Office Chair,5,7299,36495,5906.81,Debit Card
+ORD0547,2024-04-09,Riya Mehta,East,Sports,Cricket Bat,5,4731,23655,3351.69,Credit Card
+ORD0548,2024-04-02,Diya Das,North,Furniture,Bed,2,6941,13882,3036.3,Debit Card
+ORD0549,2024-02-13,Vivaan Patel,North,Furniture,Cupboard,1,2470,2470,473.27,UPI
+ORD0550,2024-07-25,Vivaan Patel,West,Sports,Football,5,3619,18095,2118.32,UPI
+ORD0551,2024-07-26,Diya Singh,East,Electronics,Smartphone,1,2065,2065,479.69,Net Banking
+ORD0552,2024-07-18,Diya Das,West,Sports,Yoga Mat,5,4892,24460,3512.72,Credit Card
+ORD0553,2024-06-07,Riya Das,West,Clothing,Dress,3,1292,3876,804.58,Net Banking
+ORD0554,2024-05-10,Aarav Sharma,South,Clothing,Dress,4,7261,29044,5701.52,Debit Card
+ORD0555,2024-08-06,Ishaan Rao,East,Furniture,Table,5,7035,35175,4770.98,Debit Card
+ORD0556,2024-09-17,Ishaan Singh,West,Clothing,Jacket,2,6228,12456,1782.03,Debit Card
+ORD0557,2024-05-28,Riya Rao,West,Sports,Cricket Bat,3,5796,17388,3845.44,Cash
+ORD0558,2024-04-29,Diya Das,North,Sports,Football,5,4390,21950,5363.15,Cash
+ORD0559,2024-02-08,Ananya Singh,South,Clothing,Jacket,4,4756,19024,2389.94,Credit Card
+ORD0560,2024-07-10,Arjun Patel,South,Electronics,Smartwatch,5,1209,6045,912.69,Credit Card
+ORD0561,2024-03-25,Diya Das,East,Clothing,Jacket,3,7503,22509,4911.99,Credit Card
+ORD0562,2024-01-14,Ishaan Rao,South,Clothing,Dress,1,3934,3934,942.2,Net Banking
+ORD0563,2024-05-06,Meera Das,East,Clothing,Dress,2,919,1838,338.09,Debit Card
+ORD0564,2024-06-26,Diya Das,North,Grocery,Rice Bag,4,888,3552,578.43,Credit Card
+ORD0565,2024-06-06,Riya Sharma,South,Clothing,Dress,4,3206,12824,2434.35,UPI
+ORD0566,2024-05-15,Riya Sharma,North,Furniture,Bed,2,3765,7530,848.6,Cash
+ORD0567,2024-02-14,Diya Singh,East,Electronics,Camera,4,4758,19032,2261.36,UPI
+ORD0568,2024-02-23,Ananya Sharma,West,Clothing,Jacket,2,6974,13948,1916.97,Debit Card
+ORD0569,2024-01-03,Vivaan Sharma,East,Clothing,Dress,2,3266,6532,947.57,Debit Card
+ORD0570,2024-02-07,Meera Patel,South,Furniture,Sofa,4,5416,21664,2446.55,UPI
+ORD0571,2024-08-26,Meera Das,North,Electronics,Camera,5,683,3415,818.6,Credit Card
+ORD0572,2024-02-22,Vivaan Rao,West,Grocery,Oil,5,6516,32580,5765.35,Credit Card
+ORD0573,2024-03-12,Ishaan Patel,East,Grocery,Oil,4,4198,16792,2687.48,UPI
+ORD0574,2024-07-18,Ishaan Sharma,East,Electronics,Camera,5,7151,35755,6328.99,Cash
+ORD0575,2024-08-17,Diya Mehta,East,Furniture,Office Chair,4,7976,31904,5789.35,UPI
+ORD0576,2024-08-11,Riya Singh,West,Furniture,Sofa,2,4571,9142,1568.74,UPI
+ORD0577,2024-02-02,Ananya Sharma,South,Sports,Football,3,7881,23643,2557.78,Net Banking
+ORD0578,2024-01-29,Diya Mehta,South,Clothing,Dress,4,3695,14780,1893.59,Debit Card
+ORD0579,2024-01-25,Ishaan Das,South,Sports,Gym Gloves,4,1068,4272,469.3,UPI
+ORD0580,2024-01-08,Diya Sharma,West,Furniture,Bed,4,6988,27952,6822.03,Cash
+ORD0581,2024-06-26,Diya Mehta,West,Electronics,Headphones,5,1413,7065,845.96,UPI
+ORD0582,2024-07-25,Arjun Sharma,South,Sports,Yoga Mat,3,6420,19260,4630.95,Credit Card
+ORD0583,2024-03-28,Ishaan Patel,North,Clothing,Dress,4,7201,28804,7063.84,UPI
+ORD0584,2024-08-12,Ishaan Patel,South,Grocery,Rice Bag,1,2602,2602,334.7,UPI
+ORD0585,2024-04-14,Vivaan Rao,East,Sports,Yoga Mat,3,7365,22095,2499.2,Credit Card
+ORD0586,2024-05-02,Arjun Das,North,Sports,Football,5,2897,14485,1894.66,Debit Card
+ORD0587,2024-09-23,Ishaan Sharma,North,Sports,Football,3,4629,13887,2274.14,UPI
+ORD0588,2024-01-29,Vivaan Mehta,North,Electronics,Camera,5,1934,9670,1333.16,UPI
+ORD0589,2024-04-19,Aarav Sharma,North,Furniture,Bed,2,6572,13144,1511.85,Debit Card
+ORD0590,2024-07-17,Ananya Patel,South,Furniture,Bed,3,4941,14823,3660.79,UPI
+ORD0591,2024-02-26,Meera Patel,North,Electronics,Laptop,4,7571,30284,5645.48,Credit Card
+ORD0592,2024-05-13,Ananya Mehta,North,Sports,Cricket Bat,4,373,1492,285.33,Cash
+ORD0593,2024-06-22,Riya Mehta,East,Grocery,Snacks,3,5705,17115,2133.79,Cash
+ORD0594,2024-09-30,Meera Patel,East,Clothing,Dress,2,1666,3332,735.59,Debit Card
+ORD0595,2024-09-10,Meera Rao,South,Furniture,Office Chair,5,7239,36195,6630.3,Net Banking
+ORD0596,2024-03-25,Riya Sharma,South,Clothing,T-Shirt,1,2465,2465,405.78,Credit Card
+ORD0597,2024-01-10,Ananya Sharma,East,Clothing,Jacket,1,4756,4756,1112.09,Net Banking
+ORD0598,2024-05-18,Ananya Sharma,South,Electronics,Headphones,2,4790,9580,1594.96,Net Banking
+ORD0599,2024-04-26,Vivaan Das,North,Electronics,Smartphone,1,7075,7075,1131.9,Net Banking
+ORD0600,2024-01-23,Diya Patel,West,Sports,Yoga Mat,1,7912,7912,1141.92,Credit Card
+ORD0601,2024-09-23,Ishaan Sharma,West,Electronics,Smartphone,2,1427,2854,711.88,Debit Card
+ORD0602,2024-08-19,Ishaan Mehta,North,Grocery,Snacks,1,7565,7565,1354.33,Debit Card
+ORD0603,2024-04-05,Arjun Sharma,West,Grocery,Oil,4,5903,23612,2731.28,Net Banking
+ORD0604,2024-05-30,Arjun Rao,East,Clothing,Jacket,1,1482,1482,249.79,Cash
+ORD0605,2024-09-18,Ananya Patel,North,Sports,Gym Gloves,4,6761,27044,2987.25,UPI
+ORD0606,2024-03-09,Arjun Das,West,Sports,Football,3,7269,21807,2702.4,Credit Card
+ORD0607,2024-03-22,Vivaan Mehta,West,Clothing,Jeans,1,4664,4664,510.15,Credit Card
+ORD0608,2024-04-22,Ananya Sharma,East,Grocery,Wheat Flour,1,3484,3484,848.52,UPI
+ORD0609,2024-08-03,Riya Mehta,East,Grocery,Snacks,2,417,834,139.77,Cash
+ORD0610,2024-06-03,Ananya Mehta,East,Grocery,Oil,5,2419,12095,1400.31,Cash
+ORD0611,2024-04-13,Diya Singh,North,Electronics,Laptop,5,6426,32130,6666.62,Debit Card
+ORD0612,2024-01-13,Arjun Mehta,East,Furniture,Table,5,7036,35180,8757.03,Credit Card
+ORD0613,2024-09-30,Ananya Rao,North,Sports,Tennis Racket,4,1802,7208,1367.48,UPI
+ORD0614,2024-02-14,Vivaan Singh,East,Furniture,Cupboard,2,6296,12592,2551.31,Cash
+ORD0615,2024-06-14,Arjun Singh,North,Clothing,Jeans,4,4280,17120,2785.63,Credit Card
+ORD0616,2024-05-09,Riya Singh,South,Electronics,Camera,1,3644,3644,597.11,UPI
+ORD0617,2024-06-07,Diya Mehta,North,Clothing,Dress,5,7876,39380,6149.0,Credit Card
+ORD0618,2024-03-19,Riya Sharma,East,Grocery,Wheat Flour,1,3568,3568,450.27,Cash
+ORD0619,2024-05-01,Ananya Rao,South,Sports,Tennis Racket,5,988,4940,720.79,Debit Card
+ORD0620,2024-05-17,Ananya Singh,North,Sports,Yoga Mat,4,5634,22536,4119.97,Net Banking
+ORD0621,2024-03-07,Ananya Mehta,South,Grocery,Wheat Flour,2,3842,7684,1345.79,Credit Card
+ORD0622,2024-01-31,Diya Patel,West,Clothing,Jeans,5,5009,25045,6129.17,Cash
+ORD0623,2024-09-17,Aarav Mehta,West,Furniture,Sofa,2,5715,11430,1968.42,Net Banking
+ORD0624,2024-04-03,Ishaan Rao,North,Clothing,Jacket,2,4211,8422,1091.59,Cash
+ORD0625,2024-09-07,Ishaan Sharma,North,Electronics,Headphones,5,4792,23960,4907.63,Debit Card
+ORD0626,2024-01-05,Meera Das,South,Clothing,Shoes,3,6792,20376,2535.58,UPI
+ORD0627,2024-03-20,Meera Das,South,Electronics,Headphones,3,3709,11127,1333.98,Net Banking
+ORD0628,2024-05-19,Arjun Rao,West,Sports,Gym Gloves,4,4146,16584,3778.84,Cash
+ORD0629,2024-07-09,Diya Sharma,West,Electronics,Camera,3,5894,17682,3053.5,Net Banking
+ORD0630,2024-01-30,Arjun Singh,East,Sports,Yoga Mat,4,3319,13276,1472.13,Cash
+ORD0631,2024-04-12,Ananya Rao,North,Grocery,Biscuits,3,4920,14760,3055.31,Credit Card
+ORD0632,2024-07-09,Ananya Sharma,South,Electronics,Smartphone,3,530,1590,231.37,Cash
+ORD0633,2024-09-10,Diya Patel,South,Sports,Gym Gloves,1,817,817,93.56,Debit Card
+ORD0634,2024-01-11,Arjun Das,East,Sports,Cricket Bat,3,337,1011,206.26,UPI
+ORD0635,2024-07-16,Aarav Patel,North,Sports,Gym Gloves,5,7879,39395,7746.12,Cash
+ORD0636,2024-04-25,Vivaan Mehta,West,Electronics,Smartwatch,1,6782,6782,1244.11,Credit Card
+ORD0637,2024-09-10,Arjun Sharma,West,Clothing,Shoes,4,4457,17828,3049.37,Net Banking
+ORD0638,2024-03-18,Ishaan Rao,East,Grocery,Snacks,5,3908,19540,3252.47,Net Banking
+ORD0639,2024-08-23,Diya Mehta,East,Grocery,Wheat Flour,2,2916,5832,1200.62,Cash
+ORD0640,2024-09-05,Meera Patel,West,Sports,Gym Gloves,5,7198,35990,6152.18,Net Banking
+ORD0641,2024-06-14,Meera Mehta,East,Clothing,T-Shirt,2,4506,9012,1626.94,Cash
+ORD0642,2024-06-08,Riya Mehta,West,Electronics,Smartwatch,5,2256,11280,2592.06,UPI
+ORD0643,2024-06-21,Riya Singh,North,Clothing,Dress,4,5741,22964,4125.67,Credit Card
+ORD0644,2024-03-24,Riya Rao,East,Clothing,Shoes,2,7091,14182,1596.02,Debit Card
+ORD0645,2024-02-02,Ishaan Sharma,East,Sports,Gym Gloves,3,7570,22710,4230.48,Debit Card
+ORD0646,2024-06-08,Ananya Mehta,East,Furniture,Table,5,4791,23955,2737.65,UPI
+ORD0647,2024-06-16,Diya Das,North,Clothing,Dress,3,4031,12093,2429.49,Net Banking
+ORD0648,2024-02-17,Diya Singh,East,Furniture,Office Chair,2,491,982,185.23,Debit Card
+ORD0649,2024-04-18,Arjun Sharma,West,Furniture,Office Chair,3,5609,16827,2298.4,Debit Card
+ORD0650,2024-07-21,Arjun Singh,West,Grocery,Rice Bag,5,5517,27585,3294.94,Credit Card
+ORD0651,2024-04-16,Ishaan Das,North,Sports,Cricket Bat,3,1006,3018,612.29,Credit Card
+ORD0652,2024-08-03,Arjun Mehta,East,Clothing,Shoes,3,4847,14541,3603.84,Net Banking
+ORD0653,2024-02-09,Aarav Rao,West,Clothing,Shoes,4,2337,9348,1687.42,Cash
+ORD0654,2024-02-01,Ishaan Singh,North,Grocery,Biscuits,1,2432,2432,539.03,UPI
+ORD0655,2024-01-05,Arjun Patel,South,Grocery,Biscuits,5,3358,16790,2513.92,Cash
+ORD0656,2024-09-27,Vivaan Das,West,Sports,Yoga Mat,5,2365,11825,1862.13,Debit Card
+ORD0657,2024-05-25,Vivaan Singh,North,Grocery,Biscuits,2,1589,3178,705.81,Debit Card
+ORD0658,2024-06-18,Arjun Rao,West,Furniture,Cupboard,2,4494,8988,1881.92,UPI
+ORD0659,2024-03-08,Diya Rao,South,Sports,Football,1,6681,6681,903.23,Credit Card
+ORD0660,2024-02-28,Meera Mehta,South,Grocery,Wheat Flour,2,5490,10980,1278.14,Cash
+ORD0661,2024-06-21,Aarav Sharma,North,Clothing,T-Shirt,2,5685,11370,2036.93,Debit Card
+ORD0662,2024-03-02,Vivaan Mehta,South,Furniture,Bed,1,5066,5066,1135.9,Credit Card
+ORD0663,2024-04-16,Riya Singh,West,Electronics,Laptop,1,6250,6250,812.68,UPI
+ORD0664,2024-09-13,Aarav Das,East,Grocery,Oil,2,3644,7288,1341.3,Net Banking
+ORD0665,2024-06-27,Ishaan Das,East,Sports,Yoga Mat,5,3845,19225,4229.84,UPI
+ORD0666,2024-08-23,Aarav Patel,West,Grocery,Snacks,2,7406,14812,3024.65,Debit Card
+ORD0667,2024-01-18,Diya Singh,North,Furniture,Sofa,5,2484,12420,1910.26,Debit Card
+ORD0668,2024-06-09,Vivaan Sharma,West,Electronics,Camera,1,5196,5196,1261.43,Net Banking
+ORD0669,2024-09-13,Ishaan Das,North,Furniture,Cupboard,1,6509,6509,979.54,Cash
+ORD0670,2024-07-02,Ananya Das,East,Electronics,Laptop,2,7021,14042,3337.16,Debit Card
+ORD0671,2024-09-11,Vivaan Sharma,West,Grocery,Biscuits,4,4473,17892,2622.0,Debit Card
+ORD0672,2024-05-08,Riya Rao,East,Grocery,Oil,1,6107,6107,1359.3,Debit Card
+ORD0673,2024-06-15,Riya Mehta,East,Sports,Yoga Mat,2,4141,8282,837.4,Debit Card
+ORD0674,2024-02-11,Ishaan Rao,South,Grocery,Snacks,2,5351,10702,2443.61,Net Banking
+ORD0675,2024-03-21,Aarav Patel,North,Grocery,Biscuits,4,6866,27464,3537.41,Net Banking
+ORD0676,2024-06-28,Ishaan Singh,West,Grocery,Biscuits,3,3161,9483,2319.41,Debit Card
+ORD0677,2024-06-22,Aarav Das,North,Clothing,T-Shirt,2,5803,11606,2614.29,UPI
+ORD0678,2024-01-08,Riya Mehta,South,Grocery,Biscuits,1,1407,1407,290.85,Net Banking
+ORD0679,2024-03-16,Ishaan Patel,East,Clothing,Dress,3,6856,20568,3141.24,Net Banking
+ORD0680,2024-02-22,Diya Rao,South,Electronics,Smartwatch,4,544,2176,525.62,Debit Card
+ORD0681,2024-03-27,Riya Sharma,North,Electronics,Camera,3,4366,13098,2385.35,Debit Card
+ORD0682,2024-08-18,Ishaan Sharma,South,Grocery,Snacks,5,6031,30155,6237.75,Credit Card
+ORD0683,2024-06-11,Vivaan Rao,West,Sports,Yoga Mat,1,7749,7749,1130.12,Credit Card
+ORD0684,2024-07-22,Aarav Patel,East,Sports,Cricket Bat,4,1297,5188,1063.15,UPI
+ORD0685,2024-05-05,Riya Das,East,Furniture,Sofa,3,5538,16614,1761.55,Credit Card
+ORD0686,2024-06-01,Arjun Mehta,East,Electronics,Smartphone,4,5754,23016,4910.65,Debit Card
+ORD0687,2024-03-19,Diya Singh,North,Electronics,Camera,3,5800,17400,3669.02,Cash
+ORD0688,2024-02-12,Ananya Rao,North,Clothing,Shoes,3,7015,21045,4063.29,Debit Card
+ORD0689,2024-03-10,Vivaan Das,East,Electronics,Smartphone,1,5946,5946,1122.59,Cash
+ORD0690,2024-09-11,Diya Sharma,North,Electronics,Camera,2,3301,6602,1448.36,UPI
+ORD0691,2024-04-07,Aarav Sharma,North,Electronics,Smartphone,5,3809,19045,4203.49,Cash
+ORD0692,2024-01-19,Riya Singh,North,Grocery,Rice Bag,4,4398,17592,3562.05,Net Banking
+ORD0693,2024-08-15,Meera Singh,North,Furniture,Sofa,3,1585,4755,796.05,UPI
+ORD0694,2024-04-18,Ananya Sharma,East,Grocery,Oil,4,2780,11120,2575.53,Debit Card
+ORD0695,2024-02-10,Meera Das,East,Furniture,Cupboard,3,3102,9306,1282.55,Net Banking
+ORD0696,2024-04-04,Vivaan Sharma,East,Clothing,Jeans,1,6898,6898,835.0,Cash
+ORD0697,2024-09-04,Vivaan Patel,North,Electronics,Laptop,1,5552,5552,759.34,Cash
+ORD0698,2024-06-24,Vivaan Singh,East,Sports,Gym Gloves,5,5530,27650,4852.37,Credit Card
+ORD0699,2024-03-26,Ishaan Rao,North,Grocery,Wheat Flour,3,7412,22236,3360.94,UPI
+ORD0700,2024-09-27,Diya Rao,North,Electronics,Laptop,3,1058,3174,687.87,UPI
+ORD0701,2024-05-03,Arjun Singh,South,Grocery,Biscuits,4,3250,13000,2351.38,Debit Card
+ORD0702,2024-05-18,Aarav Sharma,West,Electronics,Laptop,2,1955,3910,750.3,Debit Card
+ORD0703,2024-02-19,Diya Sharma,East,Electronics,Camera,5,7469,37345,4946.1,UPI
+ORD0704,2024-07-05,Meera Rao,South,Sports,Gym Gloves,2,1096,2192,232.8,Net Banking
+ORD0705,2024-04-10,Vivaan Singh,East,Clothing,Jacket,1,7047,7047,1088.41,Cash
+ORD0706,2024-02-11,Arjun Sharma,East,Furniture,Office Chair,5,1964,9820,2450.39,Net Banking
+ORD0707,2024-01-22,Ananya Patel,West,Grocery,Biscuits,5,2378,11890,2876.61,Net Banking
+ORD0708,2024-02-14,Ishaan Singh,East,Electronics,Camera,4,6717,26868,4050.66,Net Banking
+ORD0709,2024-03-29,Aarav Rao,East,Sports,Yoga Mat,4,1523,6092,1325.84,Credit Card
+ORD0710,2024-07-14,Aarav Patel,South,Clothing,Shoes,5,6146,30730,5756.46,Credit Card
+ORD0711,2024-04-11,Arjun Singh,South,Sports,Cricket Bat,2,4104,8208,990.68,Net Banking
+ORD0712,2024-06-14,Diya Sharma,South,Electronics,Laptop,4,7782,31128,4694.36,Cash
+ORD0713,2024-01-21,Diya Mehta,West,Grocery,Snacks,2,7233,14466,3450.6,Credit Card
+ORD0714,2024-06-26,Vivaan Mehta,East,Clothing,Dress,3,1626,4878,812.07,Net Banking
+ORD0715,2024-03-03,Meera Das,East,Grocery,Rice Bag,3,2448,7344,1782.69,Credit Card
+ORD0716,2024-08-12,Ishaan Singh,South,Electronics,Laptop,4,4403,17612,3025.19,Net Banking
+ORD0717,2024-03-12,Vivaan Das,North,Grocery,Snacks,3,6711,20133,2662.82,Cash
+ORD0718,2024-07-11,Riya Rao,South,Grocery,Rice Bag,1,7077,7077,721.52,Cash
+ORD0719,2024-01-12,Arjun Patel,East,Grocery,Snacks,5,2450,12250,1714.54,Cash
+ORD0720,2024-03-15,Riya Patel,West,Grocery,Wheat Flour,1,3820,3820,912.26,Debit Card
+ORD0721,2024-08-19,Vivaan Rao,North,Grocery,Snacks,2,4109,8218,1057.94,Cash
+ORD0722,2024-07-11,Riya Das,South,Furniture,Sofa,1,5675,5675,1282.64,UPI
+ORD0723,2024-06-18,Ananya Das,East,Clothing,Dress,2,7685,15370,3808.52,Cash
+ORD0724,2024-03-29,Ishaan Mehta,South,Furniture,Cupboard,3,4686,14058,1932.01,Cash
+ORD0725,2024-08-24,Ishaan Patel,North,Clothing,Dress,2,2846,5692,906.58,Cash
+ORD0726,2024-01-21,Aarav Rao,West,Furniture,Office Chair,5,281,1405,185.95,Cash
+ORD0727,2024-01-30,Aarav Rao,North,Clothing,Jacket,5,474,2370,483.15,Cash
+ORD0728,2024-05-11,Aarav Sharma,North,Grocery,Oil,3,7487,22461,3290.17,Net Banking
+ORD0729,2024-09-10,Meera Das,West,Furniture,Cupboard,2,7413,14826,3562.07,Cash
+ORD0730,2024-07-24,Vivaan Sharma,West,Grocery,Wheat Flour,3,3384,10152,1283.21,Credit Card
+ORD0731,2024-04-10,Meera Rao,West,Furniture,Office Chair,1,3010,3010,554.19,Debit Card
+ORD0732,2024-04-11,Diya Das,North,Grocery,Oil,5,7882,39410,4641.3,Net Banking
+ORD0733,2024-05-30,Meera Rao,North,Clothing,Dress,5,209,1045,217.36,Net Banking
+ORD0734,2024-09-26,Diya Mehta,North,Sports,Football,5,6265,31325,7706.72,Net Banking
+ORD0735,2024-01-07,Riya Das,South,Furniture,Bed,5,1815,9075,1408.0,Net Banking
+ORD0736,2024-08-02,Arjun Das,East,Sports,Gym Gloves,3,3807,11421,1531.49,Cash
+ORD0737,2024-05-31,Vivaan Sharma,West,Furniture,Office Chair,2,2295,4590,768.18,Debit Card
+ORD0738,2024-08-13,Diya Singh,North,Electronics,Smartwatch,2,6274,12548,2779.15,Debit Card
+ORD0739,2024-02-20,Vivaan Das,South,Electronics,Laptop,5,5866,29330,5847.9,Net Banking
+ORD0740,2024-02-11,Vivaan Singh,East,Sports,Cricket Bat,2,1328,2656,294.6,Net Banking
+ORD0741,2024-05-28,Meera Rao,East,Sports,Yoga Mat,3,5687,17061,1861.22,Debit Card
+ORD0742,2024-01-15,Ananya Patel,East,Electronics,Smartwatch,4,6919,27676,5966.93,UPI
+ORD0743,2024-07-29,Arjun Das,East,Sports,Football,4,3795,15180,2446.85,Debit Card
+ORD0744,2024-07-13,Ishaan Rao,West,Furniture,Table,4,1261,5044,789.15,Net Banking
+ORD0745,2024-07-11,Aarav Das,West,Grocery,Wheat Flour,4,5045,20180,3977.13,Credit Card
+ORD0746,2024-07-18,Meera Patel,West,Clothing,Shoes,5,2942,14710,3058.11,UPI
+ORD0747,2024-06-29,Vivaan Mehta,East,Sports,Gym Gloves,5,3226,16130,3407.87,UPI
+ORD0748,2024-04-20,Ishaan Singh,South,Furniture,Sofa,3,576,1728,192.92,Debit Card
+ORD0749,2024-06-23,Meera Mehta,South,Electronics,Smartwatch,2,1019,2038,306.49,Net Banking
+ORD0750,2024-09-07,Aarav Singh,West,Electronics,Smartwatch,1,4735,4735,569.64,Credit Card
+ORD0751,2024-05-03,Ishaan Sharma,West,Sports,Gym Gloves,1,2695,2695,569.8,UPI
+ORD0752,2024-03-21,Ananya Mehta,West,Furniture,Sofa,1,489,489,68.43,Debit Card
+ORD0753,2024-07-24,Diya Singh,West,Grocery,Snacks,2,1343,2686,442.08,UPI
+ORD0754,2024-09-17,Diya Sharma,West,Furniture,Bed,5,4143,20715,3420.67,UPI
+ORD0755,2024-03-04,Meera Patel,West,Furniture,Sofa,1,2998,2998,655.75,Credit Card
+ORD0756,2024-03-26,Aarav Rao,East,Clothing,Jacket,1,898,898,178.34,UPI
+ORD0757,2024-09-29,Arjun Sharma,South,Grocery,Snacks,1,3657,3657,543.85,UPI
+ORD0758,2024-03-09,Diya Rao,North,Grocery,Rice Bag,3,4592,13776,2306.64,Cash
+ORD0759,2024-03-04,Riya Das,West,Sports,Gym Gloves,2,1853,3706,824.69,UPI
+ORD0760,2024-07-07,Ishaan Sharma,West,Electronics,Camera,1,2292,2292,334.25,Net Banking
+ORD0761,2024-01-06,Ananya Mehta,West,Furniture,Cupboard,5,6585,32925,6491.27,Credit Card
+ORD0762,2024-09-02,Arjun Sharma,West,Clothing,T-Shirt,1,3459,3459,771.53,Credit Card
+ORD0763,2024-02-02,Ishaan Das,West,Grocery,Biscuits,4,6626,26504,6349.96,Credit Card
+ORD0764,2024-06-22,Riya Patel,East,Clothing,Jacket,1,2859,2859,508.18,Net Banking
+ORD0765,2024-08-23,Ishaan Sharma,West,Clothing,Jacket,3,4068,12204,2938.52,Net Banking
+ORD0766,2024-03-22,Ishaan Mehta,East,Grocery,Biscuits,5,6539,32695,6625.8,Cash
+ORD0767,2024-02-25,Meera Das,West,Furniture,Office Chair,5,3452,17260,3827.85,UPI
+ORD0768,2024-04-25,Meera Patel,West,Clothing,Jacket,3,1727,5181,1265.48,Cash
+ORD0769,2024-01-25,Ishaan Sharma,South,Clothing,Jeans,3,1259,3777,567.65,Debit Card
+ORD0770,2024-02-04,Diya Sharma,West,Furniture,Office Chair,5,5643,28215,6516.03,Debit Card
+ORD0771,2024-05-24,Diya Singh,West,Furniture,Bed,1,6141,6141,998.36,Debit Card
+ORD0772,2024-09-21,Ishaan Sharma,East,Sports,Yoga Mat,2,541,1082,198.93,Net Banking
+ORD0773,2024-01-15,Ishaan Sharma,East,Sports,Tennis Racket,2,230,460,103.77,Debit Card
+ORD0774,2024-05-27,Arjun Sharma,East,Grocery,Oil,1,4017,4017,903.96,UPI
+ORD0775,2024-09-27,Arjun Patel,East,Grocery,Wheat Flour,1,2452,2452,597.46,Net Banking
+ORD0776,2024-03-19,Vivaan Das,West,Electronics,Camera,3,3506,10518,1177.19,Credit Card
+ORD0777,2024-02-07,Vivaan Patel,South,Clothing,Dress,5,5219,26095,5967.94,Cash
+ORD0778,2024-02-18,Ananya Patel,North,Grocery,Biscuits,1,262,262,41.92,Credit Card
+ORD0779,2024-09-16,Diya Das,South,Grocery,Wheat Flour,4,2768,11072,1228.79,Net Banking
+ORD0780,2024-04-26,Diya Singh,North,Electronics,Smartphone,1,6930,6930,837.71,Net Banking
+ORD0781,2024-09-27,Ananya Singh,West,Grocery,Biscuits,2,3156,6312,1274.5,Cash
+ORD0782,2024-07-12,Ananya Patel,West,Sports,Football,4,6292,25168,2755.56,Net Banking
+ORD0783,2024-02-21,Diya Mehta,South,Electronics,Smartphone,5,3488,17440,4078.2,UPI
+ORD0784,2024-09-23,Meera Sharma,South,Grocery,Rice Bag,3,6015,18045,3444.7,Debit Card
+ORD0785,2024-03-19,Aarav Patel,South,Grocery,Snacks,4,2483,9932,1106.04,Debit Card
+ORD0786,2024-07-03,Diya Mehta,West,Grocery,Snacks,3,3669,11007,1930.47,Net Banking
+ORD0787,2024-08-24,Diya Das,East,Electronics,Smartphone,2,1614,3228,674.93,Debit Card
+ORD0788,2024-06-16,Vivaan Sharma,West,Furniture,Table,4,6638,26552,3273.78,Cash
+ORD0789,2024-08-02,Ananya Sharma,West,Clothing,T-Shirt,3,7164,21492,3781.58,Debit Card
+ORD0790,2024-01-24,Aarav Das,South,Clothing,Jacket,4,2565,10260,2186.39,Net Banking
+ORD0791,2024-07-30,Meera Sharma,South,Furniture,Sofa,4,3796,15184,3617.86,Cash
+ORD0792,2024-08-24,Meera Sharma,North,Furniture,Cupboard,2,7936,15872,2903.55,UPI
+ORD0793,2024-02-12,Diya Singh,East,Furniture,Office Chair,5,7740,38700,7503.31,Debit Card
+ORD0794,2024-06-26,Ishaan Mehta,South,Electronics,Smartphone,1,6206,6206,644.54,Net Banking
+ORD0795,2024-03-09,Vivaan Sharma,West,Electronics,Headphones,4,4309,17236,1858.69,Net Banking
+ORD0796,2024-08-05,Meera Das,East,Furniture,Cupboard,4,7367,29468,4568.43,Credit Card
+ORD0797,2024-02-20,Diya Singh,West,Furniture,Bed,5,4206,21030,4670.63,Debit Card
+ORD0798,2024-05-06,Aarav Rao,North,Furniture,Table,4,2268,9072,2031.32,Cash
+ORD0799,2024-08-30,Ishaan Patel,South,Furniture,Table,2,6444,12888,1694.72,Net Banking
+ORD0800,2024-06-05,Arjun Patel,South,Grocery,Rice Bag,3,7322,21966,3582.76,Net Banking
+ORD0801,2024-08-20,Ishaan Sharma,South,Sports,Gym Gloves,1,1468,1468,331.02,Credit Card
+ORD0802,2024-07-29,Ishaan Das,East,Clothing,Jacket,2,6334,12668,2636.75,UPI
+ORD0803,2024-04-22,Riya Rao,East,Sports,Football,3,832,2496,536.3,UPI
+ORD0804,2024-04-15,Aarav Rao,East,Furniture,Bed,4,6939,27756,5439.4,Credit Card
+ORD0805,2024-03-21,Meera Mehta,West,Electronics,Camera,3,2824,8472,928.62,Credit Card
+ORD0806,2024-07-03,Diya Singh,East,Clothing,T-Shirt,2,5017,10034,1952.05,Net Banking
+ORD0807,2024-02-03,Riya Rao,South,Grocery,Biscuits,4,3614,14456,2431.27,Credit Card
+ORD0808,2024-03-19,Riya Singh,East,Sports,Football,1,963,963,116.04,Credit Card
+ORD0809,2024-08-30,Ananya Patel,South,Sports,Gym Gloves,3,3674,11022,2001.54,Cash
+ORD0810,2024-05-17,Diya Mehta,East,Clothing,Jeans,1,4851,4851,688.36,UPI
+ORD0811,2024-08-08,Ananya Mehta,East,Electronics,Smartwatch,4,4944,19776,3094.67,UPI
+ORD0812,2024-03-04,Aarav Patel,East,Grocery,Biscuits,5,2982,14910,3535.31,Net Banking
+ORD0813,2024-03-09,Ishaan Mehta,North,Furniture,Sofa,3,6062,18186,2157.13,UPI
+ORD0814,2024-08-13,Diya Patel,North,Sports,Gym Gloves,4,1643,6572,1610.14,UPI
+ORD0815,2024-03-21,Arjun Mehta,East,Grocery,Oil,5,1194,5970,1410.16,UPI
+ORD0816,2024-09-06,Meera Singh,North,Clothing,T-Shirt,2,1605,3210,589.21,Debit Card
+ORD0817,2024-05-21,Aarav Sharma,South,Clothing,Dress,3,5269,15807,3723.41,UPI
+ORD0818,2024-02-09,Aarav Sharma,West,Electronics,Laptop,3,6852,20556,3918.4,Cash
+ORD0819,2024-01-18,Riya Rao,North,Sports,Tennis Racket,1,7387,7387,1298.18,Debit Card
+ORD0820,2024-04-17,Aarav Rao,South,Sports,Gym Gloves,2,473,946,187.18,Credit Card
+ORD0821,2024-07-20,Aarav Das,South,Furniture,Office Chair,4,7249,28996,5523.63,Net Banking
+ORD0822,2024-09-12,Aarav Sharma,West,Grocery,Rice Bag,1,6130,6130,921.48,Cash
+ORD0823,2024-08-27,Ananya Mehta,South,Furniture,Sofa,3,2247,6741,1370.42,Credit Card
+ORD0824,2024-05-08,Riya Das,South,Furniture,Bed,1,6349,6349,1138.97,Net Banking
+ORD0825,2024-03-08,Diya Sharma,East,Sports,Cricket Bat,2,4266,8532,1068.1,Credit Card
+ORD0826,2024-05-26,Meera Rao,East,Electronics,Headphones,4,1235,4940,926.47,Credit Card
+ORD0827,2024-08-28,Meera Singh,North,Furniture,Table,2,3066,6132,974.7,Net Banking
+ORD0828,2024-04-25,Arjun Sharma,South,Clothing,Shoes,1,1238,1238,139.73,Credit Card
+ORD0829,2024-06-09,Arjun Patel,West,Furniture,Bed,3,7505,22515,3050.68,Debit Card
+ORD0830,2024-08-19,Riya Mehta,East,Grocery,Biscuits,5,4591,22955,4221.34,Credit Card
+ORD0831,2024-05-07,Arjun Rao,East,Furniture,Office Chair,1,4933,4933,789.84,Net Banking
+ORD0832,2024-05-12,Ananya Patel,North,Sports,Cricket Bat,5,5297,26485,3221.75,UPI
+ORD0833,2024-08-19,Aarav Sharma,West,Grocery,Biscuits,1,3336,3336,433.4,Credit Card
+ORD0834,2024-09-04,Ananya Sharma,West,Electronics,Smartwatch,3,2093,6279,800.81,Debit Card
+ORD0835,2024-04-27,Aarav Rao,South,Clothing,Jacket,2,2215,4430,753.67,Cash
+ORD0836,2024-04-16,Riya Patel,North,Electronics,Laptop,5,1962,9810,1540.44,Debit Card
+ORD0837,2024-07-02,Aarav Patel,North,Sports,Cricket Bat,2,7083,14166,3183.23,Credit Card
+ORD0838,2024-08-15,Ishaan Mehta,East,Electronics,Laptop,1,1561,1561,172.17,Debit Card
+ORD0839,2024-01-13,Meera Sharma,South,Grocery,Rice Bag,3,1700,5100,1143.38,Cash
+ORD0840,2024-05-08,Arjun Mehta,North,Clothing,Jeans,4,1279,5116,519.07,Debit Card
+ORD0841,2024-08-31,Diya Patel,East,Sports,Cricket Bat,5,4860,24300,2704.54,UPI
+ORD0842,2024-09-06,Aarav Mehta,West,Electronics,Headphones,2,5910,11820,2812.31,Debit Card
+ORD0843,2024-05-25,Riya Das,North,Grocery,Oil,4,5481,21924,4858.37,Net Banking
+ORD0844,2024-07-08,Arjun Mehta,East,Clothing,Jacket,2,1087,2174,277.77,Credit Card
+ORD0845,2024-02-07,Vivaan Sharma,South,Clothing,Jacket,4,718,2872,645.74,Net Banking
+ORD0846,2024-04-13,Ananya Singh,East,Electronics,Headphones,3,4158,12474,2810.51,Debit Card
+ORD0847,2024-06-15,Meera Singh,North,Furniture,Office Chair,1,6046,6046,684.04,Debit Card
+ORD0848,2024-06-27,Aarav Singh,North,Furniture,Cupboard,5,841,4205,503.46,Cash
+ORD0849,2024-01-20,Aarav Singh,West,Electronics,Smartphone,1,4843,4843,831.23,Net Banking
+ORD0850,2024-02-15,Aarav Das,North,Clothing,Dress,5,6370,31850,7703.39,Cash
+ORD0851,2024-07-06,Aarav Patel,East,Furniture,Cupboard,2,4106,8212,1428.23,Net Banking
+ORD0852,2024-09-06,Meera Das,East,Grocery,Oil,1,2515,2515,299.69,Credit Card
+ORD0853,2024-06-01,Ananya Sharma,South,Electronics,Smartphone,1,5647,5647,731.55,Cash
+ORD0854,2024-03-05,Ananya Rao,North,Electronics,Laptop,4,4221,16884,3687.08,Cash
+ORD0855,2024-05-17,Aarav Patel,North,Electronics,Smartwatch,4,4068,16272,2377.39,Debit Card
+ORD0856,2024-05-08,Aarav Singh,South,Grocery,Rice Bag,1,2720,2720,514.29,Net Banking
+ORD0857,2024-09-26,Riya Patel,East,Grocery,Snacks,2,1878,3756,549.49,Debit Card
+ORD0858,2024-08-17,Diya Sharma,East,Furniture,Table,3,623,1869,349.77,Net Banking
+ORD0859,2024-02-15,Arjun Mehta,East,Electronics,Smartphone,5,4523,22615,2733.53,Net Banking
+ORD0860,2024-08-14,Arjun Mehta,West,Electronics,Laptop,1,5617,5617,700.37,Net Banking
+ORD0861,2024-07-24,Riya Mehta,East,Grocery,Snacks,4,2449,9796,2134.1,Debit Card
+ORD0862,2024-09-08,Riya Mehta,South,Electronics,Smartphone,1,3119,3119,550.36,Credit Card
+ORD0863,2024-08-15,Meera Rao,East,Grocery,Biscuits,3,1049,3147,410.97,Credit Card
+ORD0864,2024-02-02,Ishaan Mehta,North,Furniture,Cupboard,5,1742,8710,1514.79,Credit Card
+ORD0865,2024-02-04,Vivaan Sharma,South,Clothing,Jeans,5,2304,11520,2353.99,Cash
+ORD0866,2024-09-17,Diya Das,North,Sports,Tennis Racket,3,2906,8718,1111.16,Debit Card
+ORD0867,2024-07-24,Ishaan Das,South,Grocery,Wheat Flour,5,409,2045,274.07,Cash
+ORD0868,2024-02-12,Diya Sharma,North,Electronics,Smartwatch,2,4448,8896,1576.0,UPI
+ORD0869,2024-08-16,Ananya Mehta,South,Clothing,Jeans,1,5073,5073,1028.31,Credit Card
+ORD0870,2024-06-05,Diya Sharma,East,Sports,Cricket Bat,3,2195,6585,1455.14,UPI
+ORD0871,2024-01-31,Vivaan Rao,West,Grocery,Wheat Flour,5,7162,35810,7589.46,Debit Card
+ORD0872,2024-07-04,Vivaan Singh,West,Furniture,Office Chair,4,5364,21456,3620.4,Cash
+ORD0873,2024-05-27,Riya Mehta,West,Furniture,Table,2,3753,7506,1282.12,Debit Card
+ORD0874,2024-04-01,Meera Sharma,South,Clothing,Dress,3,2174,6522,1231.8,Credit Card
+ORD0875,2024-06-06,Riya Rao,West,Grocery,Biscuits,5,3584,17920,3645.38,Debit Card
+ORD0876,2024-05-08,Meera Das,South,Grocery,Oil,1,6836,6836,1650.23,Debit Card
+ORD0877,2024-05-08,Ananya Das,North,Furniture,Office Chair,4,3905,15620,2729.68,UPI
+ORD0878,2024-08-19,Diya Rao,South,Sports,Gym Gloves,1,2022,2022,308.0,Credit Card
+ORD0879,2024-01-27,Arjun Singh,East,Sports,Cricket Bat,5,7317,36585,4770.2,Credit Card
+ORD0880,2024-01-08,Meera Singh,North,Clothing,Shoes,3,5599,16797,2712.39,Credit Card
+ORD0881,2024-04-27,Aarav Mehta,South,Clothing,Jacket,5,6125,30625,5833.43,Cash
+ORD0882,2024-07-25,Riya Rao,South,Clothing,Shoes,2,359,718,92.76,UPI
+ORD0883,2024-04-11,Meera Das,North,Electronics,Headphones,5,4458,22290,5226.99,Cash
+ORD0884,2024-08-26,Aarav Mehta,East,Grocery,Snacks,4,983,3932,445.67,Cash
+ORD0885,2024-03-03,Aarav Das,West,Clothing,Shoes,1,6580,6580,717.61,UPI
+ORD0886,2024-03-23,Ananya Mehta,North,Sports,Gym Gloves,2,1357,2714,637.39,Net Banking
+ORD0887,2024-05-20,Diya Rao,East,Furniture,Office Chair,3,3128,9384,1268.35,Net Banking
+ORD0888,2024-09-05,Riya Das,North,Furniture,Table,1,1165,1165,161.65,Cash
+ORD0889,2024-05-02,Ishaan Rao,South,Sports,Yoga Mat,2,786,1572,264.76,Cash
+ORD0890,2024-07-20,Diya Singh,East,Furniture,Sofa,3,5829,17487,3019.76,Debit Card
+ORD0891,2024-07-10,Aarav Mehta,South,Sports,Gym Gloves,3,4997,14991,2202.32,Credit Card
+ORD0892,2024-01-08,Arjun Patel,West,Grocery,Wheat Flour,2,6444,12888,2399.89,UPI
+ORD0893,2024-01-05,Ishaan Sharma,East,Grocery,Biscuits,5,800,4000,446.29,Debit Card
+ORD0894,2024-01-13,Meera Rao,West,Sports,Football,4,6728,26912,4876.93,Cash
+ORD0895,2024-03-01,Riya Das,North,Sports,Football,5,1920,9600,1621.25,Cash
+ORD0896,2024-01-12,Riya Mehta,West,Electronics,Camera,4,7926,31704,5199.68,Net Banking
+ORD0897,2024-06-12,Ishaan Mehta,North,Clothing,T-Shirt,4,5220,20880,2944.42,Cash
+ORD0898,2024-07-09,Aarav Das,East,Sports,Tennis Racket,3,7410,22230,3937.68,Credit Card
+ORD0899,2024-05-02,Ananya Patel,West,Clothing,Jeans,2,4168,8336,1809.03,Cash
+ORD0900,2024-06-02,Vivaan Singh,West,Sports,Yoga Mat,3,1293,3879,968.84,Cash
+ORD0901,2024-08-06,Arjun Rao,North,Sports,Football,2,6464,12928,1359.15,UPI
+ORD0902,2024-07-23,Ishaan Sharma,West,Electronics,Headphones,5,1631,8155,948.42,UPI
+ORD0903,2024-05-28,Arjun Das,North,Furniture,Bed,3,6637,19911,2324.58,Net Banking
+ORD0904,2024-02-25,Vivaan Mehta,West,Electronics,Smartwatch,5,4354,21770,4777.81,Debit Card
+ORD0905,2024-02-10,Aarav Patel,East,Sports,Gym Gloves,3,412,1236,128.68,Net Banking
+ORD0906,2024-03-10,Ishaan Patel,South,Sports,Gym Gloves,5,1355,6775,1613.25,Net Banking
+ORD0907,2024-05-17,Ananya Singh,South,Furniture,Sofa,2,6887,13774,2601.14,Net Banking
+ORD0908,2024-01-24,Meera Patel,North,Electronics,Camera,4,318,1272,132.6,UPI
+ORD0909,2024-07-14,Meera Singh,South,Sports,Tennis Racket,3,7698,23094,2727.42,Cash
+ORD0910,2024-09-15,Meera Patel,East,Furniture,Bed,4,5603,22412,4601.14,Credit Card
+ORD0911,2024-02-25,Aarav Mehta,North,Sports,Yoga Mat,3,2454,7362,1605.95,Cash
+ORD0912,2024-08-11,Riya Singh,South,Clothing,Jeans,5,6895,34475,4682.89,Net Banking
+ORD0913,2024-04-15,Riya Das,South,Sports,Gym Gloves,1,5643,5643,714.23,Credit Card
+ORD0914,2024-07-13,Ananya Singh,West,Electronics,Camera,3,2519,7557,1627.3,UPI
+ORD0915,2024-05-23,Diya Sharma,North,Sports,Cricket Bat,1,3093,3093,628.25,Credit Card
+ORD0916,2024-09-27,Vivaan Das,East,Clothing,Jeans,5,6324,31620,3434.52,UPI
+ORD0917,2024-06-27,Ananya Mehta,North,Electronics,Headphones,5,2351,11755,2097.55,Cash
+ORD0918,2024-06-05,Ishaan Mehta,North,Clothing,Jacket,4,3909,15636,2354.5,Net Banking
+ORD0919,2024-09-09,Meera Singh,West,Clothing,Jacket,1,1159,1159,174.68,UPI
+ORD0920,2024-02-17,Meera Sharma,East,Sports,Gym Gloves,4,5317,21268,4908.12,UPI
+ORD0921,2024-05-09,Vivaan Rao,West,Sports,Cricket Bat,3,3095,9285,2136.36,Net Banking
+ORD0922,2024-09-10,Meera Sharma,West,Furniture,Bed,1,2605,2605,499.35,Debit Card
+ORD0923,2024-07-26,Diya Das,East,Furniture,Bed,5,7366,36830,5959.19,UPI
+ORD0924,2024-09-22,Aarav Rao,East,Grocery,Oil,1,6069,6069,1490.09,Cash
+ORD0925,2024-06-27,Riya Mehta,South,Clothing,Shoes,2,668,1336,237.13,Cash
+ORD0926,2024-03-07,Ishaan Singh,South,Furniture,Cupboard,4,2519,10076,1372.7,Credit Card
+ORD0927,2024-08-15,Vivaan Das,East,Clothing,Shoes,5,830,4150,717.73,UPI
+ORD0928,2024-01-25,Ishaan Sharma,North,Furniture,Cupboard,4,4442,17768,3236.23,Net Banking
+ORD0929,2024-02-07,Ishaan Sharma,East,Electronics,Headphones,2,4931,9862,1883.19,Cash
+ORD0930,2024-09-24,Riya Rao,North,Furniture,Office Chair,5,2376,11880,2467.06,Debit Card
+ORD0931,2024-08-28,Ananya Sharma,South,Sports,Yoga Mat,5,1944,9720,1384.1,Net Banking
+ORD0932,2024-06-27,Vivaan Rao,North,Sports,Tennis Racket,1,300,300,33.57,UPI
+ORD0933,2024-09-27,Riya Rao,North,Grocery,Oil,4,5806,23224,3498.71,Net Banking
+ORD0934,2024-02-15,Vivaan Singh,East,Electronics,Camera,5,7093,35465,6706.48,Net Banking
+ORD0935,2024-01-09,Ananya Rao,West,Clothing,T-Shirt,2,5993,11986,2960.48,Credit Card
+ORD0936,2024-05-19,Meera Das,South,Furniture,Cupboard,2,590,1180,212.61,UPI
+ORD0937,2024-07-03,Vivaan Sharma,West,Sports,Cricket Bat,2,4340,8680,1081.48,Credit Card
+ORD0938,2024-08-15,Diya Das,East,Furniture,Sofa,2,3927,7854,1879.18,Debit Card
+ORD0939,2024-02-21,Vivaan Das,West,Grocery,Biscuits,5,6391,31955,3668.57,UPI
+ORD0940,2024-08-19,Ishaan Rao,South,Sports,Tennis Racket,3,5571,16713,1762.54,Cash
+ORD0941,2024-06-14,Ananya Das,North,Grocery,Oil,1,2631,2631,356.59,Cash
+ORD0942,2024-05-21,Ananya Mehta,South,Grocery,Biscuits,1,4301,4301,432.9,Debit Card
+ORD0943,2024-02-23,Ananya Sharma,North,Electronics,Camera,3,2582,7746,1690.47,Cash
+ORD0944,2024-03-11,Diya Sharma,East,Clothing,Dress,2,5808,11616,2326.65,UPI
+ORD0945,2024-07-21,Meera Sharma,East,Sports,Yoga Mat,3,3685,11055,2551.06,Cash
+ORD0946,2024-03-12,Meera Rao,South,Grocery,Rice Bag,1,1417,1417,224.33,Net Banking
+ORD0947,2024-07-05,Vivaan Sharma,West,Grocery,Wheat Flour,5,361,1805,385.37,Net Banking
+ORD0948,2024-08-03,Diya Das,West,Sports,Yoga Mat,3,5002,15006,3359.13,Debit Card
+ORD0949,2024-08-13,Arjun Patel,West,Sports,Football,5,3634,18170,3769.72,Debit Card
+ORD0950,2024-07-23,Aarav Das,East,Sports,Tennis Racket,5,6919,34595,8538.91,Net Banking
+ORD0951,2024-05-18,Meera Patel,South,Furniture,Sofa,3,1514,4542,573.17,Debit Card
+ORD0952,2024-02-11,Riya Patel,North,Grocery,Wheat Flour,3,769,2307,507.55,Net Banking
+ORD0953,2024-02-25,Arjun Rao,North,Electronics,Smartwatch,2,1466,2932,527.6,Debit Card
+ORD0954,2024-07-25,Meera Singh,South,Sports,Cricket Bat,5,716,3580,823.17,UPI
+ORD0955,2024-08-12,Meera Das,West,Grocery,Oil,2,4817,9634,2296.13,Debit Card
+ORD0956,2024-01-19,Vivaan Das,East,Furniture,Table,1,1094,1094,143.34,Net Banking
+ORD0957,2024-05-07,Riya Patel,East,Sports,Yoga Mat,1,6654,6654,1092.41,Cash
+ORD0958,2024-03-25,Ananya Das,West,Clothing,Jacket,1,7244,7244,1290.44,UPI
+ORD0959,2024-08-31,Riya Singh,South,Electronics,Headphones,2,5529,11058,1603.61,Credit Card
+ORD0960,2024-09-19,Ananya Singh,North,Grocery,Biscuits,3,6928,20784,4901.24,Debit Card
+ORD0961,2024-09-07,Diya Patel,South,Grocery,Oil,1,3634,3634,793.26,Credit Card
+ORD0962,2024-09-12,Ananya Singh,East,Furniture,Bed,4,3224,12896,1892.76,UPI
+ORD0963,2024-08-06,Riya Mehta,South,Sports,Cricket Bat,2,2717,5434,933.9,UPI
+ORD0964,2024-08-30,Vivaan Sharma,East,Grocery,Oil,1,5249,5249,924.45,Debit Card
+ORD0965,2024-02-15,Ishaan Sharma,West,Grocery,Snacks,3,2280,6840,755.81,Net Banking
+ORD0966,2024-03-02,Vivaan Rao,West,Grocery,Snacks,4,7705,30820,4064.36,Net Banking
+ORD0967,2024-07-28,Vivaan Sharma,North,Clothing,Shoes,4,3201,12804,1625.41,Debit Card
+ORD0968,2024-07-09,Aarav Singh,West,Furniture,Table,3,1089,3267,428.36,Debit Card
+ORD0969,2024-02-23,Arjun Singh,North,Electronics,Laptop,2,3326,6652,761.95,Credit Card
+ORD0970,2024-05-19,Ananya Patel,South,Furniture,Sofa,5,3636,18180,2767.55,Cash
+ORD0971,2024-09-18,Ishaan Rao,West,Sports,Yoga Mat,4,5202,20808,3027.04,Credit Card
+ORD0972,2024-05-09,Ishaan Mehta,East,Clothing,Jeans,4,1275,5100,784.07,Debit Card
+ORD0973,2024-09-29,Arjun Singh,South,Clothing,Jacket,1,1283,1283,176.92,UPI
+ORD0974,2024-07-04,Arjun Patel,South,Furniture,Cupboard,5,1807,9035,1935.49,Credit Card
+ORD0975,2024-04-03,Vivaan Sharma,East,Grocery,Biscuits,5,1020,5100,952.64,Debit Card
+ORD0976,2024-08-01,Diya Patel,East,Grocery,Oil,2,1377,2754,678.49,Cash
+ORD0977,2024-05-07,Ananya Sharma,South,Grocery,Wheat Flour,4,3875,15500,2362.39,Debit Card
+ORD0978,2024-03-16,Vivaan Rao,North,Furniture,Bed,2,5106,10212,2187.12,Net Banking
+ORD0979,2024-04-07,Diya Patel,South,Electronics,Camera,5,835,4175,419.76,Credit Card
+ORD0980,2024-01-30,Ishaan Rao,West,Furniture,Cupboard,1,3049,3049,587.43,UPI
+ORD0981,2024-05-11,Aarav Rao,West,Clothing,Dress,2,6942,13884,2242.47,UPI
+ORD0982,2024-09-09,Vivaan Singh,East,Furniture,Cupboard,3,7711,23133,5060.21,UPI
+ORD0983,2024-07-10,Riya Das,North,Clothing,Shoes,4,5402,21608,4783.19,UPI
+ORD0984,2024-09-20,Diya Rao,North,Sports,Football,5,4590,22950,3633.94,UPI
+ORD0985,2024-02-16,Arjun Sharma,West,Sports,Tennis Racket,3,7742,23226,5013.26,Credit Card
+ORD0986,2024-04-21,Ishaan Singh,South,Furniture,Sofa,3,2022,6066,1437.36,UPI
+ORD0987,2024-06-03,Aarav Singh,South,Grocery,Biscuits,2,3594,7188,1637.05,Net Banking
+ORD0988,2024-03-25,Vivaan Rao,North,Grocery,Oil,4,7449,29796,7393.74,Cash
+ORD0989,2024-08-22,Ishaan Mehta,East,Electronics,Smartphone,5,7294,36470,5835.88,UPI
+ORD0990,2024-08-07,Riya Das,West,Grocery,Wheat Flour,2,1753,3506,676.19,UPI
+ORD0991,2024-05-25,Meera Mehta,West,Furniture,Table,5,5798,28990,4289.56,Debit Card
+ORD0992,2024-07-26,Vivaan Das,North,Grocery,Oil,1,1407,1407,327.03,UPI
+ORD0993,2024-05-31,Ananya Mehta,North,Sports,Yoga Mat,3,5381,16143,3520.26,Debit Card
+ORD0994,2024-02-11,Ananya Rao,North,Electronics,Smartwatch,3,2826,8478,1706.42,UPI
+ORD0995,2024-05-31,Diya Das,West,Electronics,Camera,5,3037,15185,2904.96,Net Banking
+ORD0996,2024-05-10,Arjun Mehta,West,Grocery,Biscuits,2,6016,12032,1433.83,Net Banking
+ORD0997,2024-04-12,Ishaan Rao,North,Grocery,Oil,4,5513,22052,4151.77,Credit Card
+ORD0998,2024-05-11,Arjun Das,North,Sports,Yoga Mat,1,3587,3587,766.28,Cash
+ORD0999,2024-04-02,Aarav Singh,East,Grocery,Wheat Flour,2,5874,11748,2043.96,Credit Card
+ORD1000,2024-04-30,Diya Das,East,Electronics,Smartphone,5,6075,30375,4829.86,Credit Card
